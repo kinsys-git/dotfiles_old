@@ -1,105 +1,37 @@
 startkde: Starting up...
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
-2018-02-13T06:51:55 akonadiconsole.upd: Found new update 'akonadiconsole-15.08-kickoff'
-2018-02-13T06:51:55 akonadiconsole.upd: Running script 'akonadiconsole-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
-2018-02-13T06:51:55 akregator.upd: Found new update 'akregator-15.08-kickoff'
-2018-02-13T06:51:55 akregator.upd: Running script 'akregator-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
-2018-02-13T06:51:55 disable_kmix.upd: Found new update 'PlasmaVolume_DisableKMixAutostart'
-2018-02-13T06:51:55 disable_kmix.upd: File 'kmixrc' does not exist or empty, skipping
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
-2018-02-13T06:51:55 fonts_akregator.upd: Found new update 'Plasma_Fonts_Akregator'
-2018-02-13T06:51:55 fonts_akregator.upd: File 'akregatorrc' does not exist or empty, skipping
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
-2018-02-13T06:51:55 fonts_global.upd: Found new update 'Fonts_Global'
-2018-02-13T06:51:55 fonts_global.upd: Running script 'fonts_global.pl'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
-2018-02-13T06:51:55 fonts_global_toolbar.upd: Found new update 'Fonts_Global_Toolbar'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
-2018-02-13T06:51:55 fonts_kate.upd: Found new update 'Plasma_Fonts_Kate'
-2018-02-13T06:51:55 fonts_kate.upd: File 'kateschemarc' does not exist or empty, skipping
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
-2018-02-13T06:51:55 gtkbreeze5.5.upd: Found new update 'GTKBreeze5.5'
-2018-02-13T06:51:55 gtkbreeze5.5.upd: Running script 'gtkbreeze5.5'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
-2018-02-13T06:51:55 importwizard.upd: Found new update 'importwizard-15.08-kickoff'
-2018-02-13T06:51:55 importwizard.upd: Running script 'importwizard-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
-2018-02-13T06:51:55 kaddressbook.upd: Found new update 'kaddressbook-15.08-kickoff'
-2018-02-13T06:51:55 kaddressbook.upd: Running script 'kaddressbook-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
-2018-02-13T06:51:55 kalarm.upd: Found new update '1.9.5'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update '1.9.9'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update '1.9.12'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update '2.0.0'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update '2.0.2'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update '2.1.5'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update '2.3.2'
-2018-02-13T06:51:55 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
-2018-02-13T06:51:55 kalarm.upd: Found new update 'kalarm-15.08-kickoff'
-2018-02-13T06:51:55 kalarm.upd: Running script 'kalarm-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
-2018-02-13T06:51:55 kde4breeze.upd: Found new update '5.0KDE4Breeze_2'
-2018-02-13T06:51:55 kde4breeze.upd: Running script 'kde4breeze'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
-2018-02-13T06:51:55 kleopatra.upd: Found new update 'kleopatra-15.08-kickoff'
-2018-02-13T06:51:55 kleopatra.upd: Running script 'kleopatra-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
-2018-02-13T06:51:55 kmail.upd: Found new update 'kmail-15.08-kickoff'
-2018-02-13T06:51:55 kmail.upd: Running script 'kmail-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
-2018-02-13T06:51:55 kmail2.upd: Found new update 'kmail2'
-2018-02-13T06:51:55 kmail2.upd: Running script 'kmail2.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
-2018-02-13T06:51:55 knotes.upd: Found new update 'knotes-15.08-kickoff'
-2018-02-13T06:51:55 knotes.upd: Running script 'knotes-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
-2018-02-13T06:51:55 kontact.upd: Found new update 'kontact-15.08-kickoff'
-2018-02-13T06:51:55 kontact.upd: Running script 'kontact-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
-2018-02-13T06:51:55 korganizer.upd: Found new update 'korganizer-15.08-kickoff'
-2018-02-13T06:51:55 korganizer.upd: Running script 'korganizer-15.08-kickoff.sh'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
-2018-02-13T06:51:55 krdb_libpathwipe.upd: Found new update 'LibraryPathWipeOut'
-2018-02-13T06:51:55 krdb_libpathwipe.upd: Running script 'krdb_clearlibrarypath'
-2018-02-13T06:51:55 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
-2018-02-13T06:51:55 krunnerplugins.upd: Found new update '5.9KRunnerPlugins'
-2018-02-13T06:51:55 krunnerplugins.upd: Running script 'krunnerplugins'
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
-2018-02-13T06:51:56 kscreenlocker.upd: Found new update '0.1-autolock'
-2018-02-13T06:51:56 kscreenlocker.upd: File 'kscreenlockerrc' does not exist or empty, skipping
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
-2018-02-13T06:51:56 messageviewer.upd: Found new update 'messageviewer_move_gravatar'
-2018-02-13T06:51:56 messageviewer.upd: File 'kmail2rc' does not exist or empty, skipping
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
-2018-02-13T06:51:56 pimsettingexporter.upd: Found new update 'pimsettingexporter-15.08-kickoff'
-2018-02-13T06:51:56 pimsettingexporter.upd: Running script 'pimsettingexporter-15.08-kickoff.sh'
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
-2018-02-13T06:51:56 powerdevil_move_shortcuts.upd: Found new update 'powerdevil_move_shortcuts'
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
-2018-02-13T06:51:56 sieveeditor.upd: Found new update 'sieveeditor-15.08-kickoff'
-2018-02-13T06:51:56 sieveeditor.upd: Running script 'sieveeditor-15.08-kickoff.sh'
-2018-02-13T06:51:56 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
-2018-02-13T06:51:56 webengineurlinterceptoradblock.upd: Found new update 'webengineurlinterceptoradblock_move_settings'
-2018-02-13T06:51:56 webengineurlinterceptoradblock.upd: File 'kmail2rc' does not exist or empty, skipping
->>> /etc/sudoers: syntax error near line 99 <<<
-sudo: parse error in /etc/sudoers near line 99
-sudo: no valid sudoers sources found, quitting
-sudo: unable to initialize policy plugin
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
 OpenGL vendor string:                   Intel Open Source Technology Center
 OpenGL renderer string:                 Mesa DRI Intel(R) HD Graphics 515 (Skylake GT2) 
 OpenGL version string:                  3.0 Mesa 17.3.3
@@ -115,3 +47,6 @@ Requires strict binding:                yes
 GLSL shaders:                           yes
 Texture NPOT support:                   yes
 Virtual Machine:                        no
+Could not open latte-dock using a library: Cannot load library libkdeinit5_latte-dock: (libkdeinit5_latte-dock: cannot open shared object file: No such file or directory)
+error: failed to retrieve mirror data: (<urlopen error [Errno -2] Name or service not known>)
+

@@ -1,2 +1,5 @@
 [General]
 history=notepad,system settings,custom,term,look,konsole
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_org.kde.konsole.desktop,1 services_notepadqq.desktop,1 services_khotkeys.desktop,1 services_kcm_lookandfeel.desktop,1 services_systemsettings.desktop
