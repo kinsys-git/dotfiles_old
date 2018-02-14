@@ -56,3 +56,5 @@ local/share/*
 !local/share/kxmlgui5
 !local/share/plasma
 !local/share/sddm
+!kde4/.placeholder
+!vim/.placeholder

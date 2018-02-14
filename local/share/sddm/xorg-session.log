@@ -56,3 +56,8 @@ Virtual Machine:                        no
 [1,4049872960:21:36:00.601662] Native Client module will be loaded at base address 0x0000160b00000000
 [902:937:0214/143600.608161:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::ChildHistogramFetcherFactory exposed by: nacl_loader
 [1:16:0214/143601.309640:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[902:937:0214/143626.978375:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+[902:902:0214/143632.495479:ERROR:account_tracker.cc(278)] OnGetTokenFailure: Connection failed (-106).
+[902:902:0214/143632.495557:ERROR:account_tracker.cc(278)] OnGetTokenFailure: Connection failed (-106).
+[902:937:0214/143717.594381:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+[902:902:0214/143756.821035:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 28
