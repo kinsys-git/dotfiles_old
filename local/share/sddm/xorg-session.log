@@ -1,37 +1,39 @@
 startkde: Starting up...
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
-2018-02-13T15:43:33 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+error: failed to retrieve mirror data: (<urlopen error [Errno -2] Name or service not known>)
+
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T20:21:17 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
 OpenGL vendor string:                   Intel Open Source Technology Center
 OpenGL renderer string:                 Mesa DRI Intel(R) HD Graphics 515 (Skylake GT2) 
 OpenGL version string:                  3.0 Mesa 17.3.3
@@ -42,11 +44,337 @@ OpenGL version:                         3.0
 GLSL version:                           1.30
 Mesa version:                           17.3.3
 X server version:                       1.19.6
-Linux kernel version:                   4.15.2
+Linux kernel version:                   4.15
 Requires strict binding:                yes
 GLSL shaders:                           yes
 Texture NPOT support:                   yes
 Virtual Machine:                        no
-Could not open latte-dock using a library: Cannot load library libkdeinit5_latte-dock: (libkdeinit5_latte-dock: cannot open shared object file: No such file or directory)
-error: failed to retrieve mirror data: (<urlopen error [Errno -2] Name or service not known>)
-
+[987:987:0213/202237.279436:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
+[987:987:0213/202238.118413:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+[987:1022:0213/202238.180544:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::Child exposed by: nacl_loader
+[987:1022:0213/202238.180652:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::ChildControl exposed by: nacl_loader
+[987:1022:0213/202238.199577:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: content::mojom::ChildHistogramFetcherFactory exposed by: nacl_loader
+[1,3325102144:03:22:38.212309] Native Client module will be loaded at base address 0x0000326700000000
+[1:16:0213/202239.000697:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[987:1114:0213/202240.390500:ERROR:device_id_linux.cc(87)] Could not find appropriate disk uuid.
+[987:1114:0213/202240.390519:ERROR:device_id_linux.cc(90)]   DeviceID=mmcblk0p1, uuid=67657287-0d89-4156-bd2b-606eb480215b
+[987:1114:0213/202240.390529:ERROR:device_id_linux.cc(90)]   DeviceID=mmcblk0p2, uuid=f6917b4d-18d7-479a-bad9-35da7e729722
+[987:1114:0213/202240.390537:ERROR:device_id_linux.cc(90)]   DeviceID=mmcblk1p1, uuid=2018-02-01-17-58-24-00
+[987:1114:0213/202240.390546:ERROR:device_id_linux.cc(90)]   DeviceID=mmcblk1p2, uuid=5132-70A1
+[987:987:0213/202250.550033:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
+[987:987:0213/202250.555856:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)
+[987:987:0213/202818.975804:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 55
+[987:987:0213/202859.338131:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 77
+[987:1022:0213/203934.057440:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+[987:1022:0213/203941.231748:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -105
+[987:1323:0213/203941.235630:ERROR:get_updates_processor.cc(244)] PostClientToServerMessage() failed during GetUpdates
+[987:987:0213/204050.774563:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 60.964 s
+[987:987:0213/204114.511041:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 60.964 s
+[1064:1064:0213/204244.088242:ERROR:gles2_cmd_decoder.cc(18162)] [.RenderWorker-0x13eb0c6ea600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[1064:1064:0213/204244.088376:ERROR:gles2_cmd_decoder.cc(17473)] [.RenderWorker-0x13eb0c6ea600]GL ERROR :GL_INVALID_OPERATION : glCopySubTextureCHROMIUM: destination texture is not defined
+[987:987:0213/204812.158972:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 3.825 s
+[987:987:0213/204813.476504:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 3.825 s
+[987:1022:0213/204820.029897:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -106
+[987:1022:0213/205817.589947:ERROR:connection_factory_impl.cc(381)] Failed to connect to MCS endpoint with error -21
+[987:987:0213/205902.808850:ERROR:page_load_metrics_update_dispatcher.cc(208)] Invalid first_meaningful_paint (unset) for time_to_interactive 60.964 s
+[1:82:0213/210700.254473:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[987:1022:0213/210700.361614:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_browser from binding interface: chrome::mojom::ResourceUsageReporter exposed by: nacl_loader
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:09 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:12 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:15 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:23 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:32 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:36 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:37 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/akonadiconsole.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/fonts_global_toolbar.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kalarm.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/katomic-levelset.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kget.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kgthemeprovider-migration.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/klickety.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kmail2.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/knavalbattle.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/powerdevil_move_shortcuts.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2018-02-13T21:09:39 Checking update-file '/usr/share/kconf_update/webengineurlinterceptoradblock.upd' for new updates
+[987:987:0213/211623.689006:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 378
+[987:987:0213/211631.457842:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 380
+[987:987:0213/212507.436816:ERROR:background_mode_manager_aura.cc(13)] Not implemented reached in virtual void BackgroundModeManager::EnableLaunchOnStartup(bool)

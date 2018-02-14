@@ -1,5 +1,5 @@
 [General]
-history=konsole,system settings,notepad,custom,term,look
+history=konsole,chrome,auto,system settings,keyboard,dol,google ch,firef,visu,notepad,custom,term,look
 
 [PlasmaRunnerManager]
-LaunchCounts=2 services_org.kde.konsole.desktop,1 services_notepadqq.desktop,1 services_khotkeys.desktop,1 services_kcm_lookandfeel.desktop,1 services_systemsettings.desktop
+LaunchCounts=2 services_org.kde.konsole.desktop,1 services_kcm_lookandfeel.desktop,1 services_khotkeys.desktop,1 services_notepadqq.desktop,1 services_systemsettings.desktop
