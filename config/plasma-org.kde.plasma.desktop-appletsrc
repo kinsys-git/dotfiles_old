@@ -24,7 +24,7 @@ showToolbox=false
 url=activities:/current/
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/DarkestHour/contents/images/2560x1600.jpg
+Image=file:///home/bradyn/Pictures/Wallpapers/YmSpJN7.jpg
 
 [ScreenMapping]
-screenMapping=desktop:/trash.desktop,0,desktop:/Home.desktop,0
+screenMapping=desktop:/Home.desktop,0,desktop:/trash.desktop,0

@@ -5,6 +5,10 @@ AppletOrder=3;4;5;6;8
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller
 
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Wallpapers/1dRBpgb.jpg,file:$HOME/Pictures/Wallpapers/YmSpJN7.jpg
+Recent URLs[$e]=file:$HOME/Pictures/Wallpapers/
+
 [PlasmaViews][Panel 2][Horizontal2400]
 thickness=36
 
