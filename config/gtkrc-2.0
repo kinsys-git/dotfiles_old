@@ -1,4 +1,4 @@
-# created by KDE Plasma, Wed Feb 14 14:35:33 2018
+# created by KDE Plasma, Thu Feb 22 19:34:35 2018
 #
 # If you do not want Plasma to override your GTK settings, select
 # Colors in the System Settings and disable the checkbox
@@ -7,6 +7,10 @@
 #
 
 gtk-alternative-button-order = 1
+
+include "/usr/share/themes/Breeze/gtk-2.0/gtkrc"
+
+gtk-theme-name="Breeze"
 
 style "default"
 {

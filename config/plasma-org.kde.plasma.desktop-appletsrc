@@ -13,7 +13,7 @@ immutability=1
 lastScreen=0
 location=0
 plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
+wallpaperplugin=org.kde.slideshow
 
 [Containments][1][ConfigDialog]
 DialogHeight=540
@@ -23,8 +23,20 @@ DialogWidth=720
 showToolbox=false
 url=activities:/current/
 
+[Containments][1][Wallpaper][General]
+Color=invalid
+FillMode=2
+SlideInterval=1
+SlidePaths=/home/bradyn/Wallpapers
+
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///home/bradyn/Pictures/Wallpapers/YmSpJN7.jpg
 
+[Containments][1][Wallpaper][org.kde.slideshow][General]
+Color=invalid
+FillMode=2
+SlideInterval=601
+SlidePaths=/home/bradyn/Wallpapers
+
 [ScreenMapping]
-screenMapping=desktop:/Home.desktop,0,desktop:/trash.desktop,0
+screenMapping=desktop:/trash.desktop,0,desktop:/Home.desktop,0

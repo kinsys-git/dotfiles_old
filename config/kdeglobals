@@ -105,12 +105,17 @@ ForegroundNormal=239,240,241
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
+[DirSelect Dialog]
+DirSelectDialog Size=640,480
+History Items[$e]=file:$HOME/Wallpapers,file:$HOME/Wallpapers
+
 [General]
 ColorScheme=Breeze Dark
 Name=Breeze Dark
 XftAntialias=true
 XftHintStyle=hintmedium
 XftSubPixel=none
+dbfile=/home/bradyn/.mozilla/firefox/t9x9z4ux.default/places.sqlite
 shadeSortColumn=true
 widgetStyle=Breeze
 
@@ -141,6 +146,10 @@ Sort reversed=false
 Speedbar Width=113
 View Style=Simple
 listViewIconSize=0
+
+[KScreen]
+ScaleFactor=1.5
+ScreenScaleFactors=eDP1=1.5;DP1=1.5;DP2=1.5;HDMI1=1.5;HDMI2=1.5;VIRTUAL1=1.5;
 
 [KShortcutsDialog Settings]
 Dialog Size=600,480

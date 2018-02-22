@@ -2,7 +2,10 @@
 OpenGLIsUnsafe=false
 
 [Desktops]
-Number=1
+Name_1=Chrome
+Name_2=Firefox
+Number=2
+Rows=1
 
 [Effect-Cube]
 BorderActivate=9
@@ -46,7 +49,15 @@ CommandWindow3=Activate and pass click
 CommandWindowWheel=Scroll
 
 [Plugins]
+cubeslideEnabled=false
+desktopchangeosdEnabled=false
+kwin4_effect_fadedesktopEnabled=false
+slideEnabled=true
 windowgeometryEnabled=false
+
+[Script-desktopchangeosd]
+PopupHideDelay=1000
+TextOnly=false
 
 [TabBox]
 BorderActivate=9
@@ -82,6 +93,7 @@ MaximizeButtonMiddleClickCommand=Maximize (vertical only)
 MaximizeButtonRightClickCommand=Maximize (horizontal only)
 NextFocusPrefersMouse=false
 Placement=Smart
+RollOverDesktops=true
 SeparateScreenFocus=false
 ShadeHover=false
 ShadeHoverInterval=250

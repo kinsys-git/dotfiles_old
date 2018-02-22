@@ -10,7 +10,7 @@ MasterMixerDevice=auto_null
 Menubar=true
 MixerIgnoreExpression=Modem
 Position=0,0
-Size=479,368
+Size=640,480
 Soundmenu.Mixers=
 Visible=false
 
@@ -19,6 +19,9 @@ PulseAudio::Capture_Devices:1=PulseAudio.Capture_Devices.1.default
 PulseAudio::Capture_Streams:1=PulseAudio.Capture_Streams.1.default
 PulseAudio::Playback_Devices:1=PulseAudio.Playback_Devices.1.default
 PulseAudio::Playback_Streams:1=PulseAudio.Playback_Streams.1.default
+
+[View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.alsa_output.platform-skl_n88l25_s4567.HiFi__hw_sklnau8825adi_0__sink]
+Split=false
 
 [View.PulseAudio.Playback_Devices.1.default.PulseAudio::Playback_Devices:1.auto_null]
 Split=false
