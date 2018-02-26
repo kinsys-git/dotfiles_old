@@ -1,0 +1,111 @@
+{
+   "checksum": "b3bb596196195ec278995d65cdfad8a3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13162926268450749",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13162926268452915"
+            },
+            "name": "Vonage Business Desktop",
+            "sync_transaction_version": "10",
+            "type": "url",
+            "url": "https://desktopconnect.vonagebusiness.com/#/"
+         }, {
+            "date_added": "13162926323256093",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13162926323257895"
+            },
+            "name": "Vonage Soft Phone",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "https://desktopconnect.vonagebusiness.com/#/dashboard/messages"
+         }, {
+            "date_added": "13162926453622143",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13163015482520037"
+            },
+            "name": "Vonage Dashboard",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://report.connetic.net/vonage/"
+         }, {
+            "date_added": "13162926497573827",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13163792408375119"
+            },
+            "name": "Connetic Corp - Dashboard",
+            "sync_transaction_version": "13",
+            "type": "url",
+            "url": "https://dashboard.vocalocity.com/dashboard/jsp/dashboard.jsp"
+         }, {
+            "date_added": "13162927426988818",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13162927426992252"
+            },
+            "name": "Nicereply :: Dashboard",
+            "sync_transaction_version": "14",
+            "type": "url",
+            "url": "https://admin.nicereply.com/dashboard"
+         }, {
+            "date_added": "13162927456568896",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13163878568978313"
+            },
+            "name": "Docs",
+            "sync_transaction_version": "15",
+            "type": "url",
+            "url": "https://docs.connetic.net/"
+         }, {
+            "date_added": "13162946431062914",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13163820032181234"
+            },
+            "name": "Connetic Live Support",
+            "sync_transaction_version": "16",
+            "type": "url",
+            "url": "https://help.itmadeeasy.com/"
+         }, {
+            "date_added": "13163015430451991",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13164142919975892"
+            },
+            "name": "ZABBIX",
+            "sync_transaction_version": "18",
+            "type": "url",
+            "url": "https://watch.connetic.net/"
+         } ],
+         "date_added": "13164139047788440",
+         "date_modified": "13163015430451991",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13164139047788449",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "18",
+      "synced": {
+         "children": [  ],
+         "date_added": "13164139047788451",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

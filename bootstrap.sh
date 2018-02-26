@@ -2,7 +2,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="config local vim bashrc profile xsessionrc kde4"
+files="config vim bashrc gtkrc-2.0"
 
 echo "Creating $olddir for backup of any existing dotfiles in ~"
 mkdir -p $olddir
