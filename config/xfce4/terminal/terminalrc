@@ -25,10 +25,12 @@ MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=TRUE
 MiscNewTabAdjacent=FALSE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-BackgroundDarkness=0.540000
-ColorBackground=#000000000000
-ColorForeground=#ffffffffffff
+BackgroundDarkness=0.430000
 ScrollingUnlimited=TRUE
-FontName=Ubuntu Mono 14
+FontName=Monospace 14
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
+ColorForeground=#f3f3f3f3f3f3
+ColorBackground=#000000000000
+ColorCursor=#dcdcdc
+ColorPalette=rgb(0,0,0);rgb(255,0,0);rgb(0,255,0);rgb(255,102,0);rgb(97,97,255);rgb(170,0,170);rgb(0,255,255);rgb(220,220,220);rgb(112,144,128);rgb(220,163,163);rgb(114,213,163);rgb(240,223,175);rgb(148,191,243);rgb(236,147,211);rgb(147,224,227);rgb(255,255,255)
 
