@@ -208,15 +208,18 @@ bindsym $mod+r mode "resize"
 assign [class="Nightly"] $ws2
 assign [class="Chromium"] $ws1
 assign [class="discord" ] $ws4
+
+
 exec --no-startup-id chromium 
 exec --no-startup-id firefox-nightly 
 exec --no-startup-id i3-msg 'workspace $ws3; exec xfce4-terminal' 
 exec --no-startup-id discord
 
+exec --no-startup-id feh --randomize --bg-fill ~/.wallpapers/*
 exec --no-startup-id nm-applet
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id compton
-exec xrandr --dpi 180
+exec --no-startup-id xrandr --dpi 180
 exec --no-startup-id polybar main
 exec --no-startup-id i3-msg reload
 exec --no-startup-id i3-msg restart
