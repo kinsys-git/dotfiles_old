@@ -60,9 +60,9 @@ font-6 = "Font Awesome 5 Free:style=Solid:pixelsize=16;0"
 font-4 = "Font Awesome 5 Solid:pixelsize=16;0"
 font-5 = "Font Awesome 5 Brands:pixelsize=16;0"
 
-modules-left = date
+modules-left = date mpd
 modules-center = i3
-modules-right = mpd volume wlan battery powermenu
+modules-right = volume wlan battery powermenu
 
 ;tray-position = right
 ;tray-padding = 2
