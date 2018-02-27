@@ -136,16 +136,16 @@ bindsym $mod+Control+Left workspace prev
 bindsym $mod+Control+Right workspace next
 
 # Workspace variables
-set $ws1 "1"
-set $ws2 "2"
-set $ws3 "3"
-set $ws4 "4"
-set $ws5 "5"
-set $ws6 "6"
-set $ws7 "7"
-set $ws8 "8"
-set $ws9 "9"
-set $ws10 "10"
+set $ws1 "1:"
+set $ws2 "2:"
+set $ws3 "3:"
+set $ws4 "4:"
+set $ws5 "5:."
+set $ws6 "6:.."
+set $ws7 "7:.>"
+set $ws8 "8:..>"
+set $ws9 "9:.>>"
+set $ws10 "10:>>>"
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -204,11 +204,24 @@ bindsym Escape mode "default"
 
 bindsym $mod+r mode "resize"
 
+# Custom commands
+bindsym Control+Shift+p exec "feh --randomize --bg-fill ~/.wallpapers/*"
+bindsym Control+Shift+k exec "xkill"
+
+# Set the bar up
+#bar {
+#	status_command i3status -c ~/.config/i3status/config -t
+#	tray_output primary
+#	position top
+#	height 32
+#	font pango:monospace 8
+#	strip_workspace_numbers yes
+#}
+
 # Startup applications in the workspace
 assign [class="Nightly"] $ws2
 assign [class="Chromium"] $ws1
 assign [class="discord" ] $ws4
-
 
 exec --no-startup-id chromium 
 exec --no-startup-id firefox-nightly 
@@ -217,12 +230,11 @@ exec --no-startup-id discord
 
 exec --no-startup-id feh --randomize --bg-fill ~/.wallpapers/*
 exec --no-startup-id nm-applet
-exec --no-startup-id nitrogen --restore
+exec --no-startup-id blueman-applet
 exec --no-startup-id compton
 exec --no-startup-id xrandr --dpi 180
-exec --no-startup-id polybar main
+exec --no-startup-id polybar spacer -r
+exec --no-startup-id polybar main -r
 exec --no-startup-id i3-msg reload
 exec --no-startup-id i3-msg restart
-#exec sh ~/.startup_commands.sh
-
 
