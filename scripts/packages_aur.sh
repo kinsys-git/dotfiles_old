@@ -1,2 +1,2 @@
 #!/bin/bash
-yaourt --m-arg --skipchecksums --m-arg --skippgpcheck -S - --noconfirm --needed < ~/dotfiles/packagelist/pacaur_list.txt
+pacaur -S - --noedit --noconfirm --needed --skippgpcheck < ~/dotfiles/packagelist/pacaur_list.txt

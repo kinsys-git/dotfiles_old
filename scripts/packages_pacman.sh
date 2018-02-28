@@ -1,2 +1,3 @@
 #!/bin/bash
-pacman -S - --noconfirm --needed < ~/dotfiles/packagelist/pacman_list.txt
+pacman -S - --noconfirm --needed < ../packagelist/pacman_list.txt
+
