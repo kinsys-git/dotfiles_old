@@ -166,7 +166,7 @@ icon-next = 
 
 label-song-maxlen = 25
 label-song-ellipsis = true
-label-offline = 
+label-offline = 
 
 [module/xbacklight]
 type = internal/xbacklight
