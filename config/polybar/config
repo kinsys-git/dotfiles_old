@@ -351,9 +351,9 @@ menu-0-2 = power
 menu-0-2-exec = menu-open-1
 
 menu-1-0 = restart
-menu-1-0-exec = sudo reboot now
+menu-1-0-exec = systemctl reboot now
 menu-1-1 = power off
-menu-1-1-exec = sudo shutdown now
+menu-1-1-exec = systemctl shutdown now
 
 [settings]
 screenchange-reload = true
