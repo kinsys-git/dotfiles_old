@@ -8,6 +8,8 @@ libc++abi
 libc++experimental
 lutris
 pacaur
+package-query-git
 polybar-git
 siji-git
 xkeyboard-config-chromebook
+yaourt-git

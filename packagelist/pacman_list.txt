@@ -1,5 +1,6 @@
 aalib
 acl
+adapta-gtk-theme
 adwaita-icon-theme
 alsa-lib
 alsa-utils
@@ -334,6 +335,7 @@ libxcb
 libxcomposite
 libxcursor
 libxdamage
+libxdg-basedir
 libxdmcp
 libxext
 libxfce4ui
@@ -404,6 +406,7 @@ nm-connection-editor
 npth
 nspr
 nss
+numix-gtk-theme
 opencore-amr
 openjpeg2
 openmotif
@@ -420,6 +423,7 @@ pam
 pambase
 pango
 pangomm
+papirus-icon-theme
 patch
 pciutils
 pcmciautils
@@ -468,6 +472,7 @@ reiserfsprogs
 rest
 rhash
 rhythmbox
+rofi
 rsync
 rtkit
 s-nail
