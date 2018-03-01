@@ -1,3 +1,4 @@
+colorpicker
 cower
 discord
 firefox-nightly
@@ -7,6 +8,7 @@ libc++
 libc++abi
 libc++experimental
 lutris
+neofetch
 pacaur
 package-query-git
 polybar-git

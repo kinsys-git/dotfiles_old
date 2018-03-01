@@ -122,6 +122,7 @@ gtk-update-icon-cache
 gtk2
 gtk3
 gtkmm
+gtkmm3
 guile
 gzip
 harfbuzz
@@ -224,6 +225,7 @@ libbluray
 libbsd
 libcaca
 libcanberra
+libcanberra-pulse
 libcap
 libcap-ng
 libconfig
@@ -406,7 +408,6 @@ nm-connection-editor
 npth
 nspr
 nss
-numix-gtk-theme
 opencore-amr
 openjpeg2
 openmotif
@@ -425,6 +426,7 @@ pango
 pangomm
 papirus-icon-theme
 patch
+pavucontrol
 pciutils
 pcmciautils
 pcre
@@ -471,7 +473,6 @@ reflector
 reiserfsprogs
 rest
 rhash
-rhythmbox
 rofi
 rsync
 rtkit
@@ -502,8 +503,6 @@ taglib
 talloc
 tar
 tdb
-termite
-termite-terminfo
 tevent
 texinfo
 thin-provisioning-tools
