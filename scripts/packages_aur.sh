@@ -1,2 +1,5 @@
 #!/bin/bash
-pacaur -S - --noedit --noconfirm --needed --skippgpcheck < ~/dotfiles/packagelist/pacaur_list.txt
+while read p; do
+  pikaur -S --noedit --noconfirm --needed --skippgpcheck  $p
+done < ~/dotfiles/packageslist/aur_list.txt
+

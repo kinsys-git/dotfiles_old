@@ -137,10 +137,10 @@ bindsym $mod+Control+Left workspace prev
 bindsym $mod+Control+Right workspace next
 
 # Workspace variables
-set $ws1 "1:"
-set $ws2 "2:"
-set $ws3 "3:"
-set $ws4 "4:"
+set $ws1 "1:"
+set $ws2 "2:"
+set $ws3 "3:"
+set $ws4 "4:"
 set $ws5 "5:."
 set $ws6 "6:.."
 set $ws7 "7:.>"
@@ -220,14 +220,12 @@ bindsym Control+Shift+k exec "xkill"
 #}
 
 # Startup applications in the workspace
-assign [class="chromium"] $ws1
-assign [class="Nightly"] $ws2
-assign [class="discord"] $ws4
-assign [class="Lutris"] $ws5
+assign [class="Nightly"] $ws1
+assign [class="discord"] $ws3
+assign [class="Lutris"] $ws4
 
-exec --no-startup-id chromium
 exec --no-startup-id firefox-nightly 
-exec --no-startup-id i3-msg 'workspace $ws3; exec xfce4-terminal' 
+exec --no-startup-id i3-msg 'workspace $ws2; exec xfce4-terminal' 
 exec --no-startup-id discord
 
 #exec --no-startup-id feh --randomize --bg-fill ~/.wallpapers/*

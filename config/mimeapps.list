@@ -23,3 +23,4 @@ application/x-extension-shtml=firefox-nightly.desktop;
 application/xhtml+xml=firefox-nightly.desktop;
 application/x-extension-xhtml=firefox-nightly.desktop;
 application/x-extension-xht=firefox-nightly.desktop;
+application/x-ms-dos-executable=wine.desktop;

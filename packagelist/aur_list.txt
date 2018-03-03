@@ -9,9 +9,7 @@ libc++abi
 libc++experimental
 lutris
 neofetch
-pacaur
-package-query-git
+pikaur-git
 polybar-git
 siji-git
 xkeyboard-config-chromebook
-yaourt-git
