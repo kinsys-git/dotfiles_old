@@ -1,3 +1,4 @@
+a52dec
 aalib
 acl
 adapta-gtk-theme
@@ -61,10 +62,12 @@ double-conversion
 e2fsprogs
 efibootmgr
 efivar
+enca
 exa
 exo
 expac
 expat
+faac
 faad2
 fakeroot
 fbida
@@ -228,15 +231,21 @@ libcanberra
 libcanberra-pulse
 libcap
 libcap-ng
+libcddb
+libcdio
+libcdio-paranoia
 libconfig
 libcroco
 libcue
 libcups
 libdaemon
 libdatrie
+libdca
 libdiscid
 libdrm
 libdv
+libdvdnav
+libdvdread
 libedit
 libelf
 libepoxy
@@ -245,6 +254,7 @@ libevdev
 libexif
 libffi
 libfontenc
+libftdi
 libgcrypt
 libglvnd
 libgme
@@ -264,8 +274,10 @@ libldap
 libmad
 libmm-glib
 libmms
+libmng
 libmnl
 libmodplug
+libmp4v2
 libmpc
 libmpdclient
 libndp
@@ -318,6 +330,7 @@ libunistring
 libunwind
 libupnp
 libusb
+libusb-compat
 libutempter
 libutil-linux
 libuv
@@ -363,12 +376,14 @@ libxt
 libxtst
 libxv
 libxvmc
+libxxf86dga
 libxxf86vm
 libyaml
 licenses
 linux
 linux-api-headers
 linux-firmware
+lirc
 llvm-libs
 lm_sensors
 logrotate
@@ -396,6 +411,9 @@ mkinitcpio-busybox
 mobile-broadband-provider-info
 mpd
 mpfr
+mpg123
+mplayer
+mps-youtube
 mtdev
 nano
 ncurses
@@ -459,6 +477,7 @@ python-gobject
 python-mako
 python-markupsafe
 python-packaging
+python-pafy
 python-pyparsing
 python-setuptools
 python-six
@@ -470,6 +489,7 @@ qt5-xmlpatterns
 ranger
 re2
 readline
+recode
 reflector
 reiserfsprogs
 rest
@@ -477,6 +497,7 @@ rhash
 rofi
 rsync
 rtkit
+rtmpdump
 s-nail
 scrot
 sddm
@@ -578,6 +599,7 @@ xterm
 xvidcore
 xz
 yajl
+youtube-dl
 zeromq
 zita-alsa-pcmi
 zita-resampler
