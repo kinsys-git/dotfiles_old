@@ -1,5 +1,9 @@
 #!/bin/bash
 while read p; do
-  pikaur -S --noedit --noconfirm --needed --skippgpcheck  $p
-done < ~/dotfiles/packageslist/aur_list.txt
+  git clone https://aur.archlinux.org/$p
+  cd $p
+  yes | makepkg -sri --skippgpcheck --force
+  cd ..
+  rm -rf $p
+done < /home/bradyn/dotfiles/packagelist/aur_list.txt
 
