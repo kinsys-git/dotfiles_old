@@ -19,18 +19,15 @@ primary = #FF00BCD4
 secondary = #FF900000
 alert = #90900000
 
-[bar/bottom]
+[bar/systray]
 width = 100%
-height = 20
+height = 30
 background = #00000000
 foreground = #00000000
-override-redirect = true
 fixed-center = true
-
 tray-position = right
 tray-transparent = true
-
-;bottom = true
+override-redirect = true
 
 modules-left = spacer
 
@@ -55,8 +52,8 @@ border-top-size = 8
 border-bottom-size = 0
 border-color = #00000000
 
-padding-left = 2
-padding-right = 2
+padding-left = 4
+padding-right = 4
 
 module-margin-left = 1
 module-margin-right = 2
@@ -71,7 +68,7 @@ font-5 = "Font Awesome 5 Brands:pixelsize=16;0"
 
 modules-left = date mpd
 modules-center = i3
-modules-right = volume battery
+modules-right = wlan eth volume battery menu
 
 ;tray-position = right
 ;tray-padding = 2
@@ -98,32 +95,6 @@ format-background = ${colors.background-alt}
 type = internal/xwindow
 label = 
 format-background = #00000000
-
-[module/xkeyboard]
-type = internal/xkeyboard
-blacklist-0 = num lock
-
-format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
-format-prefix-underline = ${colors.secondary}
-
-label-layout = %layout%
-label-layout-underline = ${colors.secondary}
-
-label-indicator-padding = 2
-label-indicator-margin = 1
-label-indicator-background = ${colors.secondary}
-label-indicator-underline = ${colors.secondary}
-
-[module/filesystem]
-type = internal/fs
-interval = 25
-
-mount-0 = /
-
-label-mounted = %{F#0a81f5}%mountpoint%%{F-}: %percentage_used%%
-label-unmounted = %mountpoint% not mounted
-label-unmounted-foreground = ${colors.foreground-alt}
 
 [module/i3]
 type = internal/i3
@@ -178,81 +149,31 @@ label-song-maxlen = 25
 label-song-ellipsis = true
 label-offline = 
 
-[module/xbacklight]
-type = internal/xbacklight
-
-format = <label> <bar>
-label = BL
-
-bar-width = 10
-bar-indicator = |
-bar-indicator-foreground = #ff
-bar-indicator-font = 2
-bar-fill = ─
-bar-fill-font = 2
-bar-fill-foreground = #9f78e1
-bar-empty = ─
-bar-empty-font = 2
-bar-empty-foreground = ${colors.foreground-alt}
-
-[module/backlight-acpi]
-inherit = module/xbacklight
-type = internal/backlight
-card = intel_backlight
-
-[module/cpu]
-type = internal/cpu
-interval = 2
-format-prefix = ""
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #f90000
-label = %percentage:2%%
-
-[module/memory]
-type = internal/memory
-interval = 2
-format-prefix = ""
-format-prefix-foreground = ${colors.foreground-alt}
-format-underline = #4bffdc
-label = %percentage_used%%
-
 [module/wlan]
 type = internal/network
 interface = wlp1s0
 interval = 3.0
 
-format-connected = <ramp-signal> <label-connected>
-;format-connected-underline = #dbbcff
-format-connected-foreground = ${colors.foreground}
-label-connected = 
+format-connected = <label-connected>
+label-connected = 
+label-connected-foreground = ${colors.foreground]
 
 format-disconnected = <label-disconnected>
-;format-disconnected = <label-disconnected>
-;format-disconnected-underline = ${self.format-connected-underline}
-label-disconnected = %ifname% disconnected
-label-disconnected-foreground = ${colors.secondary}
-
-ramp-signal-0 = 
-ramp-signal-1 = 
-ramp-signal-2 = 
-ramp-signal-3 = 
-ramp-signal-4 = 
-ramp-signal-foreground = ${colors.foreground}
+label-disconnected = 
+label-disconnected-foreground = ${colors.alert}
 
 [module/eth]
 type = internal/network
 interface = net0
 interval = 3.0
 
-;format-connected-underline = #dbbcff
-format-connected-prefix = ""
-format-connected-prefix-foreground = ${colors.foreground}
-label-connected = 
+format-connected = <label-connected>
+label-connected = 
+label-connected-foreground = ${colors.foreground}
 
-format-disconnected = <label-disconnected>
-;format-disconnected-underline = ${self.format-connected-underline}
-label-disconnected = %ifname% Down
-label-disconnected-foreground = ${colors.secondary}
+format-disconnected = <label-disconnected> 
+label-disconnected = 
+label-disconnected-foreground = ${colors.alert}
 
 [module/date]
 type = internal/date
@@ -261,8 +182,8 @@ interval = 5
 date =
 date-alt = " %Y-%m-%d"
 
-time = %H:%M
-time-alt = %H:%M:%S
+time = %I.%M
+time-alt = %I:%M:%S
 
 ;format-prefix = 
 ;format-prefix-foreground = ${colors.foreground-alt}
@@ -320,50 +241,33 @@ animation-charging-4 = 
 animation-charging-foreground = ${colors.foreground}
 animation-charging-framerate = 750
 
-[module/temperature]
-type = internal/temperature
-thermal-zone = 0
-warn-temperature = 60
-
-format = <ramp> <label>
-format-underline = #f50a4d
-format-warn = <ramp> <label-warn>
-format-warn-underline = ${self.format-underline}
-
-label = %temperature%
-label-warn = %temperature%
-label-warn-foreground = ${colors.secondary}
-
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
-ramp-foreground = ${colors.foreground}
-
-[module/powermenu]
+[module/menu]
 type = custom/menu
 
 expand-right = true
 
 format-spacing = 1
 
-label-open = 
+label-open =  
 label-open-foreground = ${colors.foreground}
 label-close =  
 label-close-foreground = ${colors.foreground}
-label-separator = |
-label-separator-foreground = ${colors.foreground-alt}
+label-separator =  |||
+label-separator-foreground = ${colors.background}
 
-menu-0-0 = wifi
+menu-0-0 = 
 menu-0-0-exec = nm-connection-editor
-menu-0-1 = bluetooth
+menu-0-1 = 
 menu-0-1-exec = blueman-manager
-menu-0-2 = power
+menu-0-2 =  
 menu-0-2-exec = menu-open-1
 
-menu-1-0 = restart
-menu-1-0-exec = systemctl reboot now
-menu-1-1 = power off
-menu-1-1-exec = systemctl shutdown now
+menu-1-0 = 
+menu-1-0-exec = i3-msg exit
+menu-1-1 = 
+menu-1-1-exec = systemctl reboot
+menu-1-2 = 
+menu-1-2-exec = systemctl poweroff
 
 [settings]
 screenchange-reload = true

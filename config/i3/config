@@ -208,6 +208,7 @@ bindsym $mod+r mode "resize"
 # Custom commands
 bindsym Control+Shift+p exec "feh --randomize --bg-fill ~/.wallpapers/*"
 bindsym Control+Shift+k exec "xkill"
+bindsym Control+Shift+s exec "timeout 15 polybar systray -r"
 
 # Set the bar up
 #bar {
@@ -236,7 +237,7 @@ exec --no-startup-id blueman-applet
 exec --no-startup-id compton
 exec --no-startup-id xrandr --dpi 180
 exec --no-startup-id polybar main -r
-exec --no-startup-id polybar bottom -r 
+#exec --no-startup-id polybar bottom -r 
 exec --no-startup-id i3-msg reload
 exec --no-startup-id i3-msg restart
 
