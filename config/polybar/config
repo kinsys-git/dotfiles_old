@@ -9,13 +9,13 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #40000000
-background-alt = #60000000
+background = #90000000
+background-alt = #B2000000
 tray-background = #00000000
 ;foreground = ${xrdb:color7:#222}
 foreground = #FFFFFF
 foreground-alt = #555
-primary = #9000BCD4
+primary = #FF00BCD4
 secondary = #FF900000
 alert = #90900000
 
@@ -30,7 +30,7 @@ fixed-center = true
 tray-position = right
 tray-transparent = true
 
-bottom = true
+;bottom = true
 
 modules-left = spacer
 
@@ -40,7 +40,7 @@ width = 100%
 height = 30
 ;offset-x = 10%
 ;offset-y = 0
-radius = 6
+radius = 15
 fixed-center = true
 
 background = ${colors.background}
@@ -141,9 +141,10 @@ label-mode-background = ${colors.background-alt}
 
 ; focused = Active workspace on focused monitor
 label-focused = %name%
-label-focused-background = ${colors.primary}
+label-focused-background = ${colors.background-alt}
 ;label-focused-underline = ${module/bspwm.label-focused-underline}
 label-focused-padding = 4
+label-focused-foreground = ${colors.primary}
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %name%
@@ -277,12 +278,12 @@ type = internal/pulseaudio
 #sink = "alsa_output.platform-skl_n88l25_s4567.HiFi__hw_sklnau8825adi_0__sink"
 
 format-volume = <ramp-volume> <label-volume>
-label-volume = %percentage%%
+label-volume = 
 label-volume-foreground = ${root.foreground}
 
 format-muted-prefix = ""
 format-muted-foreground = ${colors.secondary}
-label-muted = Mute
+label-muted = X
 
 ramp-volume-0 = 
 ramp-volume-1 = 
@@ -294,14 +295,14 @@ battery = BAT0
 adapter = AC
 full-at = 98
 
-format-charging = <animation-charging> <label-charging>
+format-charging = <animation-charging>
 ;format-charging-underline = #fffabc
 
-format-discharging = <ramp-capacity> <label-discharging>
+format-discharging = <ramp-capacity>
 ;format-discharging-underline = #ffa0a0
 
-format-full-prefix = " "
-format-full-prefix-foreground = ${colors.foreground}
+format-full = " "
+format-full-foreground = ${colors.foreground}
 ;format-full-underline = #c9ffa0
 
 ramp-capacity-0 = 
