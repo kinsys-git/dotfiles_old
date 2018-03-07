@@ -1,0 +1,15 @@
+libc++
+colorpicker
+cower
+discord
+firefox-nightly
+gtk-theme-arc-git
+i3ipc-glib-git
+libc++abi
+libc++experimental
+lutris
+neofetch
+pikaur-git
+polybar-git
+siji-git
+xkeyboard-config-chromebook
