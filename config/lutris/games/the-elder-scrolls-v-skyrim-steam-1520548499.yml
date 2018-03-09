@@ -1,0 +1,8 @@
+game:
+  appid: '72850'
+  arch: auto
+system: {}
+winesteam:
+  Audio: auto
+  Desktop: false
+  WineDesktop: 2400x1600

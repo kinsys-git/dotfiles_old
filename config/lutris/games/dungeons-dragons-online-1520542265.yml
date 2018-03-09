@@ -1,0 +1,7 @@
+game:
+  exe: /home/bradyn/.wine/drive_c/Program Files/StandingStoneGames/Dungeons & Dragons
+    Online (Preview)/TurbineInvoker.exe
+system: {}
+wine:
+  Desktop: true
+  WineDesktop: 2400x1600

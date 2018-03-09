@@ -137,18 +137,19 @@ bindsym $mod+Control+Left workspace prev
 bindsym $mod+Control+Right workspace next
 
 # Workspace variables
-set $ws1 "1:"
-set $ws2 "2:"
-set $ws3 "3:"
-set $ws4 "4:"
-set $ws5 "5:."
-set $ws6 "6:.."
-set $ws7 "7:.>"
-set $ws8 "8:..>"
-set $ws9 "9:.>>"
-set $ws10 "10:>>>"
+set $ws0 "1:"
+set $ws1 "2:"
+set $ws2 "3:"
+set $ws3 "4:"
+set $ws4 "5:"
+set $ws5 "6:."
+set $ws6 "7:.."
+set $ws7 "8:.>"
+set $ws8 "9:..>"
+set $ws9 "10:.>>"
 
 # switch to workspace
+bindsym $mod+grave workspace $ws0
 bindsym $mod+1 workspace $ws1
 bindsym $mod+2 workspace $ws2
 bindsym $mod+3 workspace $ws3
@@ -158,9 +159,9 @@ bindsym $mod+6 workspace $ws6
 bindsym $mod+7 workspace $ws7
 bindsym $mod+8 workspace $ws8
 bindsym $mod+9 workspace $ws9
-bindsym $mod+0 workspace $ws10
 
 # move focused container to workspace
+bindsym $mod+Shift+grave move container to workspace $ws0
 bindsym $mod+Shift+1 move container to workspace $ws1
 bindsym $mod+Shift+2 move container to workspace $ws2
 bindsym $mod+Shift+3 move container to workspace $ws3
@@ -170,7 +171,6 @@ bindsym $mod+Shift+6 move container to workspace $ws6
 bindsym $mod+Shift+7 move container to workspace $ws7
 bindsym $mod+Shift+8 move container to workspace $ws8
 bindsym $mod+Shift+9 move container to workspace $ws9
-bindsym $mod+Shift+0 move container to workspace $ws10
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -222,17 +222,19 @@ bindsym Control+Shift+s exec "timeout 15 polybar systray -r"
 
 # Startup applications in the workspace
 assign [class="Nightly"] $ws1
-assign [class="discord"] $ws3
-assign [class="Lutris"] $ws4
+assign [class="discord"] $ws2
+assign [class="Lutris"] $ws3
+assign [class="Steam"] $ws3
 
 exec --no-startup-id firefox-nightly 
-exec --no-startup-id i3-msg 'workspace $ws2; exec xfce4-terminal' 
+exec --no-startup-id i3-msg 'workspace $ws0; exec xfce4-terminal' 
 exec --no-startup-id discord
 
 #exec --no-startup-id feh --randomize --bg-fill ~/.wallpapers/*
 exec --no-startup-id nitrogen --restore
 exec --no-startup-id volnoti
 exec --no-startup-id nm-applet
+exec --no-startup-id blueman
 exec --no-startup-id blueman-applet
 exec --no-startup-id compton
 exec --no-startup-id xrandr --dpi 180

@@ -35,7 +35,6 @@ cairo
 cairomm
 cantarell-fonts
 cdparanoia
-chromium
 cifs-utils
 cmake
 cmus
@@ -256,8 +255,10 @@ libffi
 libfontenc
 libftdi
 libgcrypt
+libgcrypt15
 libglvnd
 libgme
+libgnome-keyring
 libgpg-error
 libgudev
 libgusb
@@ -440,6 +441,7 @@ pacman
 pacman-mirrorlist
 pam
 pambase
+pamixer
 pango
 pangomm
 papirus-icon-theme
