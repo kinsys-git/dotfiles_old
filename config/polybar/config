@@ -138,6 +138,7 @@ type = internal/mpd
 format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
 format-offline = <label-offline>
 format-background = ${colors.background-alt}
+format-stopped = 
 
 icon-prev = 
 icon-stop =  

@@ -96,3 +96,27 @@ q
 help
 help basic
 q
+pl https://www.youtube.com/playlist?list=PLvlw_ICcAI4dgellaUrmAcV7s-VhfqHat
+1-48
+player mpd
+help
+help config
+set player mpd
+pl https://www.youtube.com/playlist?list=PLvlw_ICcAI4dgellaUrmAcV7s-VhfqHat
+1-48
+set player mplayer
+1-48
+help
+help basic
+help
+help config
+2
+5,6,7,13,10
+21,26,48,43,38
+30
+n
+/botw music
+2
+/dkc2 ost
+1
+q
