@@ -14,4 +14,3 @@ polybar-git
 siji-git
 volnoti
 xkeyboard-config-chromebook
-yakyak-git
