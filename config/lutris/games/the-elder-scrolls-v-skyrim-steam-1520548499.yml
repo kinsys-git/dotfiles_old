@@ -4,5 +4,6 @@ game:
 system: {}
 winesteam:
   Audio: auto
-  Desktop: false
+  Desktop: true
+  MouseWarpOverride: force
   WineDesktop: 2400x1600
