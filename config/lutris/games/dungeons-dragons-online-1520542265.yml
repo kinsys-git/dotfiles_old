@@ -4,4 +4,5 @@ game:
 system: {}
 wine:
   Desktop: true
+  MouseWarpOverride: force
   WineDesktop: 2400x1600
