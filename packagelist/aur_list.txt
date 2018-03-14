@@ -8,7 +8,6 @@ libc++
 libc++abi
 libc++experimental
 lutris
-neofetch
 pikaur-git
 polybar-git
 siji-git

@@ -1,8 +1,11 @@
 game:
   exe: /home/bradyn/.wine/drive_c/Program Files/StandingStoneGames/Dungeons & Dragons
     Online (Preview)/TurbineInvoker.exe
-system: {}
+system:
+  reset_desktop: false
 wine:
   Desktop: true
   MouseWarpOverride: force
+  OffscreenRenderingMode: fbo
+  UseGLSL: enabled
   WineDesktop: 2400x1600

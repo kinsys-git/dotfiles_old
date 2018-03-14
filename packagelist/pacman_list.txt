@@ -42,6 +42,7 @@ cantata
 cdparanoia
 celt
 chromaprint
+chromium
 cifs-utils
 cmake
 cmus
@@ -242,6 +243,7 @@ lib32-libgudev
 lib32-libice
 lib32-libid3tag
 lib32-libidn
+lib32-libidn2
 lib32-libindicator-gtk2
 lib32-libjpeg-turbo
 lib32-libjpeg6-turbo
@@ -269,6 +271,7 @@ lib32-libtiff
 lib32-libtiff4
 lib32-libtirpc
 lib32-libudev0-shim
+lib32-libunistring
 lib32-libusb
 lib32-libva
 lib32-libvdpau
@@ -569,6 +572,7 @@ mps-youtube
 mtdev
 nano
 ncurses
+neofetch
 neon
 netctl
 nettle
