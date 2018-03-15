@@ -11,7 +11,6 @@
 
 set $mod Mod1
 
-
 set $bg-color 	         #00BCD4
 set $inactive-bg-color   #405252
 set $text-color          #00BCD4
@@ -27,7 +26,17 @@ client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-col
 client.urgent 		$urgent-bg-color $urgent-bg-color $urgent-text-color #00ff00
 
 # Hide window border
-new_window normal 0 px
+#new_window normal 0 px
+
+for_window [class="^.*"] border pixel 1
+for_window [class="Yad"] floating enable
+
+# Configure gaps
+gaps inner 15
+gaps outer 15
+smart_borders on
+
+workspace $ws0 gaps outer 30
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -44,10 +53,6 @@ font pango:monospace 0
 # X core fonts rendering does not support right-to-left and this being a bitmap
 # font, it doesn’t scale on retina/hidpi displays.
 
-# Configure gaps
-gaps inner 15
-gaps outer 12
-
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
@@ -55,9 +60,9 @@ floating_modifier $mod
 bindsym $mod+Return exec xfce4-terminal
 
 # Pulse Audio controls
-bindsym XF86AudioRaiseVolume exec --no-startup-id "sh ~/dotfiles/scripts/vol.sh i 5"
-bindsym XF86AudioLowerVolume exec --no-startup-id "sh ~/dotfiles/scripts/vol.sh d 5"
-bindsym XF86AudioMute exec --no-startup-id "sh ~/dotfiles/scripts/vol.sh m"
+bindsym XF86AudioRaiseVolume exec --no-startup-id "sh ~/dotfiles/scripts/vol.sh i 5 && pkill -RTMIN+1 i3blocks"
+bindsym XF86AudioLowerVolume exec --no-startup-id "sh ~/dotfiles/scripts/vol.sh d 5 && pkill -RTMIN+1 i3blocks"
+bindsym XF86AudioMute exec --no-startup-id "sh ~/dotfiles/scripts/vol.sh m && pkill -RTMIN+1 i3blocks"
 
 # Screen brightness controls
 bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
@@ -205,11 +210,21 @@ bindsym $mod+r mode "resize"
 # Custom commands
 bindsym Control+Shift+p exec "feh --randomize --bg-fill ~/.wallpapers/*"
 bindsym Control+Shift+k exec "xkill"
-bindsym Control+Shift+s exec "timeout 15 polybar systray -r"
+bindsym Control+Alt+Delete exec "sh ~/dotfiles/config/i3blocks/scripts/shutdown_menu"
 
 # Set the bar up
 #bar {
 #	status_command i3status -c ~/.config/i3status/config -t
+#	tray_output primary
+#	position top
+#	height 32
+#	font pango:monospace 8
+#	strip_workspace_numbers yes
+#}
+
+#bar {
+#
+#	status_command i3blocks
 #	tray_output primary
 #	position top
 #	height 32
@@ -233,10 +248,7 @@ exec --no-startup-id volnoti
 exec --no-startup-id nm-applet
 exec --no-startup-id blueman
 exec --no-startup-id blueman-applet
-exec --no-startup-id compton
 exec --no-startup-id xrandr --dpi 180
 exec --no-startup-id polybar main -r
-#exec --no-startup-id polybar bottom -r 
 exec --no-startup-id i3-msg reload
 exec --no-startup-id i3-msg restart
-
