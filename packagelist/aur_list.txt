@@ -1,5 +1,10 @@
 colorpicker
-libc++
 discord
 firefox-nightly
+i3-kde
+latte-dock-git
+libc++
+libc++abi
+libc++experimental
 lutris
+pikaur-git
