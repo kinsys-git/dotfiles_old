@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-StandingStoneGames</Name>
+    <Directory>wine-Programs-StandingStoneGames.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-StandingStoneGames-Dungeons &amp; Dragons Online (Preview)</Name>
+    <Directory>wine-Programs-StandingStoneGames-Dungeons &amp; Dragons Online (Preview).directory</Directory>
+    <Include>
+      <Filename>wine-Programs-StandingStoneGames-Dungeons &amp; Dragons Online (Preview)-Dungeons &amp; Dragons Online (Preview).desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

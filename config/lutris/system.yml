@@ -1,0 +1,3 @@
+system:
+  resolution: 'off'
+  terminal_app: xfce4-terminal
