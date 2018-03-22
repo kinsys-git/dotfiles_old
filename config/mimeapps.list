@@ -26,3 +26,4 @@ application/x-extension-xht=firefox-nightly.desktop;
 application/x-ms-dos-executable=wine.desktop;
 text/plain=wine-extension-txt.desktop;
 audio/x-wav=vlc.desktop;mplayer.desktop;
+application/x-7z-compressed=xarchiver.desktop;
