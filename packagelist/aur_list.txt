@@ -1,0 +1,5 @@
+colorpicker
+libc++
+discord
+firefox-nightly
+lutris
