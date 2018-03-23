@@ -248,7 +248,7 @@ exec --no-startup-id volnoti
 exec --no-startup-id nm-applet
 exec --no-startup-id blueman
 exec --no-startup-id blueman-applet
-exec --no-startup-id xrandr --dpi 96
+#exec --no-startup-id xrandr --dpi 96
 exec --no-startup-id polybar main -r
 exec --no-startup-id i3-msg reload
 exec --no-startup-id i3-msg restart
