@@ -1,15 +1,12 @@
+libc++
 colorpicker
 cower
 discord
 firefox-nightly
 gtk-theme-arc-git
 i3ipc-glib-git
-libc++
-libc++abi
-libc++experimental
 lutris
 pikaur-git
 polybar-git
 siji-git
 volnoti
-xkeyboard-config-chromebook

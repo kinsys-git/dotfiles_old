@@ -1,3 +1,3 @@
 #!/bin/bash
-pacman -S - --noconfirm --needed < ../packagelist/pacman_list.txt
+sudo pacman -S - --noconfirm --needed < ../packagelist/pacman_list.txt
 

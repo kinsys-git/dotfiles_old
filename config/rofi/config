@@ -2,6 +2,6 @@ rofi.combi-modi: window,drun
 rofi.theme: material
 rofi.modi: combi
 rofi.sidebar-mode: false
-rofi.fullscreen: true
+rofi.fullscreen: false
 rofi.fake-transparency: true
 rofi.hide-scrollbar: true
