@@ -13,5 +13,5 @@ alias headphones='sh ~/dotfiles/scripts/headphones.sh'
 alias speakers='sh ~/dotfiles/scripts/speakers.sh'
 alias youtube='mpsyt'
 alias getclass='xprop | grep -i "class"'
-
+[ "$XDG_CURRENT_DESKTOP" = "KDE" ] || [ "$XDG_CURRENT_DESKTOP" = "GNOME" ] || export QT_QPA_PLATFORMTHEME="qt5ct"
 PS1="\[\033[36m\]\u\[\033[33m\]  \w\[\033[36m\]  \[\033[37m\]"
