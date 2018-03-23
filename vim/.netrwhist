@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/bradyn/dotfiles/config/polybar'
 let g:netrw_dirhist_2='/home/bradyn/dotfiles/scripts'
 let g:netrw_dirhist_3='/home/bradyn/dotfiles/packagelist'
+let g:netrw_dirhist_4='/home/bradyn/dotfiles/config'
+let g:netrw_dirhist_5='/home/bradyn/dotfiles/config/i3'
