@@ -1,5 +1,7 @@
+libc++
 colorpicker
 cower
+discord
 firefox-nightly
 gtk-theme-arc-git
 i3ipc-glib-git
