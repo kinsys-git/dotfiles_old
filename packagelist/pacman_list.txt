@@ -463,6 +463,7 @@ libdc1394
 libdca
 libdiscid
 libdmtx
+libdmx
 libdrm
 libdv
 libdvbpsi
@@ -792,6 +793,7 @@ qt5-webengine
 qt5-webkit
 qt5-x11extras
 qt5-xmlpatterns
+qt5ct
 ranger
 re2
 readline
@@ -924,6 +926,7 @@ xorg-server-common
 xorg-setxkbmap
 xorg-xauth
 xorg-xbacklight
+xorg-xdpyinfo
 xorg-xinit
 xorg-xkbcomp
 xorg-xkill
