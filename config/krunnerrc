@@ -1,0 +1,5 @@
+[General]
+history=behavior,mouse,global s,kwin sc,settings,keyb,window de,virtu,keyboard,xfce,discord,firefox,lutris,disc,virtual,virt-man,virt,icon,rofi,term
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_Discord.desktop,1 services_lutris.desktop,4 services_xfce4-terminal.desktop,3 windows_0_52428803,2 services_firefox-nightly.desktop

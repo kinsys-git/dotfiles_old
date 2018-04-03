@@ -2,7 +2,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="local wallpapers config vim bashrc gtkrc-2.0 bash_profile"
+files="kde4 local wallpapers config vim bashrc gtkrc-2.0 bash_profile"
 
 echo "Creating $olddir for backup of any existing dotfiles in ~"
 mkdir -p $olddir

@@ -876,7 +876,6 @@ vim-runtime
 vlc
 volume_key
 vte-common
-vte3-ng
 vulkan-icd-loader
 w3m
 wavpack

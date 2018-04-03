@@ -1,0 +1,16 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/Battle.net/Battle.net Launcher.exe
+  prefix: /home/bradyn/Games/starcraft-ii
+system:
+  env:
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/bradyn/Games/starcraft-ii
+    __GL_THREADED_OPTIMIZATIONS: '1'
+    mesa_glthread: 'true'
+wine:
+  Desktop: false
+  MouseWarpOverride: enable
+  UseGLSL: enabled
+  WineDesktop: 1600x900
+  version: staging-3.5-x86_64

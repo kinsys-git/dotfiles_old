@@ -1,0 +1,16 @@
+[ScreenConnectors]
+10=eDP1
+11=DVI-D-1
+
+[UniversalSettings]
+currentLayout=My Layout
+downloadWindowSize=800,550
+lastNonAssignedLayout=My Layout
+launchers=
+layoutsColumnWidths=
+layoutsWindowSize=700,450
+memoryUsage=0
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2
