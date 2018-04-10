@@ -11,8 +11,8 @@ WindowsBlockCompositing=true
 XRenderSmoothScale=false
 
 [Desktops]
-Number=6
-Rows=1
+Number=4
+Rows=4
 
 [Effect-Cube]
 BorderActivate=9
@@ -60,11 +60,13 @@ activatelattelaunchermenuEnabled=false
 cubeslideEnabled=false
 desktopchangeosdEnabled=false
 enforcedecoEnabled=true
+kwin-script-tilingEnabled=false
 kwin4_effect_fadedesktopEnabled=true
 minimizeallEnabled=false
 quarter-tilingEnabled=true
 slideEnabled=false
 synchronizeskipswitcherEnabled=false
+tiling-gapsEnabled=false
 videowallEnabled=false
 windowgeometryEnabled=false
 
@@ -72,12 +74,37 @@ windowgeometryEnabled=false
 PopupHideDelay=1000
 TextOnly=false
 
+[Script-kwin-script-tiling]
+floaters=\\0
+fullscreenGaps=true
+noBorder=true
+screenGapSizeBottom=10
+screenGapSizeLeft=10
+screenGapSizeRight=10
+screenGapSizeTop=10
+userActive=false
+windowsGapSizeHeight=10
+windowsGapSizeWidth=10
+
 [Script-quarter-tiling]
 centerTo=0
 follow=false
 gap=10
+ignoredClients=wine, steam, kate, overwatch, sc2, battlenet, Vncviewer
 liveTiling=true
-numDesks=6
+mb=10
+ml=41
+mr=10
+mt=10
+numDesks=4
+
+[Script-tiling-gaps]
+bottomMargin=10
+halfClients=chromium, kate, spotify, nightly
+leftMargin=34
+noOpacity=true
+rightMargin=10
+topMargin=10
 
 [TabBox]
 BorderActivate=9
@@ -96,7 +123,7 @@ BorderSnapZone=10
 BorderlessMaximizedWindows=true
 CenterSnapZone=0
 ClickRaise=true
-DelayFocusInterval=10
+DelayFocusInterval=300
 ElectricBorderCooldown=350
 ElectricBorderCornerRatio=0.25
 ElectricBorderDelay=150

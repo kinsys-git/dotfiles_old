@@ -1,0 +1,7 @@
+game:
+  appid: gog_com-Hollow_Knight_1
+  args: '""'
+  exe: /home/bradyn/Games/Hollow Knight/start.sh
+linux: {}
+system:
+  disable_runtime: true

@@ -1,0 +1,24 @@
+game:
+  appid: '489830'
+  arch: win64
+  exe: /home/bradyn/dotfiles/local/share/lutris/runners/winesteam/prefix/drive_c/Program
+    Files/Steam/steamapps/common/Skyrim Special Edition/SkyrimSELauncher.exe
+  prefix: ~/Games/DXVK
+system:
+  disable_monitoring: false
+  disable_runtime: true
+  display: 'off'
+  env:
+    DXVK_HUD: '1'
+    DXVK_LOG_LEVEL: none
+    RADV_DEBUG: nohiz
+    WINEDEBUG: -all
+  pulse_latency: false
+  resolution: 'off'
+  sdl_video_fullscreen: 'off'
+wine:
+  Desktop: true
+  UseGLSL: enabled
+  WineDesktop: 1600x900
+winesteam:
+  version: staging-3.5-x86_64

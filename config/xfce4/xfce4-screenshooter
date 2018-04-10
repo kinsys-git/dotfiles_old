@@ -1,8 +1,8 @@
 delay=1
 region=3
-action=3
+action=1
 show_mouse=1
-screenshot_dir=file:///home/bradyn/Pictures
+screenshot_dir=file:/home/bradyn
 app=ida
 last_user=
 

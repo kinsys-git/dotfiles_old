@@ -1,0 +1,12 @@
+[Event/smsReceived]
+Action=
+Execute=
+Logfile=
+Sound=
+TTS=
+
+[Event/transferReceived]
+Execute=
+Logfile=
+Sound=
+TTS=

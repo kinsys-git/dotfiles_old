@@ -5,15 +5,23 @@ AppletOrder=3;4;5;6;8
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.battery,org.kde.plasma.devicenotifier,org.kde.plasma.volume,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller
 
+[DownloadDialog Settings]
+Height 1080=522
+Width 2560=700
+
 [KFileDialog Settings]
-Recent Files[$e]=1dRBpgb.jpg,file:$HOME/dotfiles/wallpapers/5yxuibo82wlz.jpg,file:$HOME/dotfiles/wallpapers/COUX74N.jpg,file:$HOME/dotfiles/wallpapers/1dRBpgb.jpg
-Recent URLs[$e]=file:$HOME/dotfiles/wallpapers/,file:$HOME/dotfiles/
+Recent Files[$e]=1dRBpgb.jpg,file:$HOME/Wallpapers/nFxXDiH.jpg,file:$HOME/.wallpapers/COUX74N.jpg,file:$HOME/dotfiles/wallpapers/5yxuibo82wlz.jpg,file:$HOME/dotfiles/wallpapers/COUX74N.jpg,file:$HOME/dotfiles/wallpapers/1dRBpgb.jpg
+Recent URLs[$e]=file:$HOME/dotfiles/wallpapers/,file:$HOME/dotfiles/,file:$HOME/.wallpapers/,file:$HOME/Wallpapers/
+
+[PlasmaTransientsConfig]
+PreloadWeight=26
 
 [PlasmaViews][Panel 2][Horizontal2400]
 thickness=36
 
 [ScreenConnectors]
-0=DVI-D-1
+0=HDMI-A-0
+1=:0.0
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

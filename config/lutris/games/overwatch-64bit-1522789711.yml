@@ -1,0 +1,24 @@
+game:
+  arch: win64
+  args: ''
+  exe: /home/bradyn/Games/Overwatch/Overwatch/Overwatch.exe
+  prefix: ~/Games/overwatch
+system:
+  disable_runtime: true
+  display: 'off'
+  env:
+    MESA_GL_VERSION_OVERRIDE: 4.0COMPAT
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: ~/Games/overwatch
+    __GL_THREADED_OPTIMIZATIONS: '1'
+    mesa_glthread: 'true'
+  exclude_processes: Agent.exe
+  resolution: 'off'
+  sdl_video_fullscreen: '0'
+wine:
+  Desktop: true
+  MouseWarpOverride: enable
+  OffscreenRenderingMode: fbo
+  UseGLSL: enabled
+  WineDesktop: 2160x1080
+  version: staging-2.21-x86_64

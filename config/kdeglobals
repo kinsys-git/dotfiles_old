@@ -145,7 +145,7 @@ Size=32
 
 [DirSelect Dialog]
 DirSelectDialog Size=640,480
-History Items[$e]=file:$HOME/dotfiles/wallpapers
+History Items[$e]=file:$HOME/Wallpapers,file:$HOME/Wallpapers,file:$HOME/dotfiles/wallpapers
 
 [General]
 ColorScheme=Breeze Dark
@@ -181,7 +181,7 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=115
+Speedbar Width=121
 View Style=Simple
 listViewIconSize=0
 

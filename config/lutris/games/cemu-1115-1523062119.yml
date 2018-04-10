@@ -1,0 +1,12 @@
+game:
+  arch: win64
+  exe: /home/bradyn/Games/CEMU/Cemu.exe
+  prefix: ~/Games/CEMU/winepfx
+system:
+  disable_runtime: true
+  env:
+    __GL_THREADED_OPTIMIZATIONS: '1'
+wine:
+  overrides:
+    dbghelp: native,builtin
+  version: system

@@ -1,7 +1,24 @@
 [ActionPlugins][0]
 MidButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
-wheel:Vertical;NoModifier=org.kde.switchdesktop
+
+[ActionPlugins][0][RightButton;NoModifier]
+_add panel=true
+_context=true
+_lock_screen=true
+_logout=true
+_run_command=true
+_sep1=true
+_sep2=true
+_sep3=true
+_wallpaper=true
+add widgets=true
+configure=true
+configure shortcuts=false
+lock widgets=true
+manage activities=true
+remove=true
+run associated application=true
 
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
@@ -13,25 +30,28 @@ immutability=1
 lastScreen=0
 location=0
 plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
+wallpaperplugin=org.kde.slideshow
+
+[Containments][1][Applets][4][Configuration][General]
+favoritesPortedToKAstats=true
 
 [Containments][1][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
 
 [Containments][1][Configuration]
-PreloadWeight=26
+PreloadWeight=0
 
 [Containments][1][General]
 showToolbox=false
 url=activities:/current/
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/bradyn/dotfiles/wallpapers/5yxuibo82wlz.jpg
+Image=/home/bradyn/Wallpapers/nFxXDiH.jpg
 
 [Containments][1][Wallpaper][org.kde.slideshow][General]
 SlideInterval=910
-SlidePaths=/home/bradyn/dotfiles/wallpapers
+SlidePaths=/home/bradyn/Wallpapers
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=92
@@ -65,4 +85,4 @@ PreloadWeight=42
 
 [ScreenMapping]
 itemsOnDisabledScreens=0,2,desktop:/Home.desktop,desktop:/trash.desktop
-screenMapping=desktop:/Home.desktop,0,desktop:/trash.desktop,0
+screenMapping=desktop:/trash.desktop,0,desktop:/Home.desktop,0

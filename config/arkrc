@@ -1,0 +1,21 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/Downloads/fo4/
+Height 1080=560
+Width 2560=1605
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/fo4/,file:$HOME/Downloads/
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/cemuhook_1116_0564.zip
+File2[$e]=$HOME/Downloads/cemu_1.11.6.zip
+Name1[$e]=cemuhook_1116_0564.zip
+Name2[$e]=cemu_1.11.6.zip

@@ -27,10 +27,10 @@ MiscNewTabAdjacent=FALSE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 BackgroundDarkness=0.820000
 ScrollingUnlimited=TRUE
-ScrollingBar=TERMINAL_SCROLLBAR_NONE
 ColorForeground=#f3f3f3f3f3f3
 ColorBackground=#000000000000
 ColorCursor=#dcdcdc
 ColorPalette=rgb(0,0,0);rgb(112,0,255);rgb(255,201,0);rgb(233,239,6);rgb(0,109,255);rgb(72,0,255);rgb(0,255,255);rgb(220,220,220);rgb(112,144,128);rgb(176,115,255);rgb(255,222,100);rgb(240,223,175);rgb(148,191,243);rgb(140,95,255);rgb(147,224,227);rgb(255,255,255)
 MiscShowRelaunchDialog=TRUE
+ScrollingBar=TERMINAL_SCROLLBAR_NONE
 
