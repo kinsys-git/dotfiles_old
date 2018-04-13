@@ -48,7 +48,7 @@ LastSeenMounted=false
 EverMounted=true
 Icon=drive-removable-media-usb
 LastNameSeen=15.1 GiB Removable Media
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/kde/fstab///192.168.1.83/marie]
 EverMounted=true

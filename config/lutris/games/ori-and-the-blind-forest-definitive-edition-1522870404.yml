@@ -4,6 +4,9 @@ game:
   prefix: ~/Games/DXVK
 system:
   disable_runtime: true
+  display: HDMI-A-0
+  env:
+    DXVK_HUD: '1'
 wine:
   Desktop: true
   WineDesktop: 2560x1080

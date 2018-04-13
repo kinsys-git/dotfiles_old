@@ -19,7 +19,7 @@ Menubar=true
 MixerIgnoreExpression=Modem
 Position=20,57
 Size=1580,843
-Soundmenu.Mixers=PulseAudio::Capture_Streams:1,PulseAudio::Capture_Devices:1,PulseAudio::Playback_Devices:1,PulseAudio::Playback_Streams:1
+Soundmenu.Mixers=PulseAudio::Playback_Streams:1,PulseAudio::Playback_Devices:1,PulseAudio::Capture_Streams:1,PulseAudio::Capture_Devices:1
 Visible=false
 
 [Profiles]

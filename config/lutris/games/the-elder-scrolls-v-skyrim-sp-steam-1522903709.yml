@@ -17,7 +17,7 @@ system:
   resolution: 'off'
   sdl_video_fullscreen: 'off'
 wine:
-  Desktop: true
+  Desktop: false
   UseGLSL: enabled
   WineDesktop: 1600x900
 winesteam:

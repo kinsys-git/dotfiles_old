@@ -8,14 +8,16 @@ Recent Files[$e]=file:$HOME
 Recent URLs[$e]=file:$HOME/Downloads/fo4/,file:$HOME/Downloads/
 
 [MainWindow]
+Height 1080=515
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABNcAAAHdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-splitterSizes=426,213
+Width 2560=1239
+splitterSizes=825,413
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/cemuhook_1116_0564.zip
-File2[$e]=$HOME/Downloads/cemu_1.11.6.zip
-Name1[$e]=cemuhook_1116_0564.zip
-Name2[$e]=cemu_1.11.6.zip
+File1[$e]=$HOME/Downloads/fonts/harry_p.zip
+File2[$d]
+Name1[$e]=harry_p.zip
+Name2[$d]

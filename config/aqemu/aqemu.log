@@ -1,0 +1,1375 @@
+Type: Warning Num: 10
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 11
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 12
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 13
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 14
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 15
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 16
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 17
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 18
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 19
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 20
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 21
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 22
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 23
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 24
+Date: 2018.04.12 13:27:56 294
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 27
+Date: 2018.04.12 13:27:56 331
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 28
+Date: 2018.04.12 13:27:56 331
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 29
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 30
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 31
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 32
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 33
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 34
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 35
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 36
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 37
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 38
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 39
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 40
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 41
+Date: 2018.04.12 13:27:56 332
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 43
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 44
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 45
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 46
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 47
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 48
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 49
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 50
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 51
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 52
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 53
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 54
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 55
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 56
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 57
+Date: 2018.04.12 13:27:56 398
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 58
+Date: 2018.04.12 13:27:56 424
+Sender: Main_Window::Main_Window( QWidget *parent )
+Message: No VM Loaded!
+
+Type: Warning Num: 59
+Date: 2018.04.12 13:28:12 960
+Sender: bool Virtual_Machine::Load_VM( const QString &file_name )
+Message: Uses compatible mode for config version 0.5
+
+Type: Error Num: 61
+Date: 2018.04.12 13:28:12 960
+Sender: void Update_Current_Emulator_Devices()
+Message: Cannot Load Info About This Emulator! AQEMU Doesn't Work!
+
+Type: Error Num: 65
+Date: 2018.04.12 13:28:12 961
+Sender: void Update_Current_Emulator_Devices()
+Message: Cannot Load Info About This Emulator! AQEMU Doesn't Work!
+
+Type: Warning Num: 66
+Date: 2018.04.12 13:28:24 402
+Sender: bool Virtual_Machine::Load_VM( const QString &file_name )
+Message: Uses compatible mode for config version 0.5
+
+Type: Error Num: 68
+Date: 2018.04.12 13:28:24 402
+Sender: void Update_Current_Emulator_Devices()
+Message: Cannot Load Info About This Emulator! AQEMU Doesn't Work!
+
+Type: Error Num: 72
+Date: 2018.04.12 13:28:24 402
+Sender: void Update_Current_Emulator_Devices()
+Message: Cannot Load Info About This Emulator! AQEMU Doesn't Work!
+
+Type: Error Num: 73
+Date: 2018.04.12 13:28:50 242
+Sender: void Virtual_Machine::Set_Icon_Path( const QString &file_name )
+Message: File name is empty!
+
+Type: Warning Num: 140
+Date: 2018.04.12 13:30:22 177
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/manufacturer"!
+
+Type: Warning Num: 141
+Date: 2018.04.12 13:30:22 177
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 142
+Date: 2018.04.12 13:30:22 177
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 143
+Date: 2018.04.12 13:30:22 177
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 144
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 145
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 146
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 147
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 148
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 149
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 150
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 151
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 152
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 153
+Date: 2018.04.12 13:30:22 178
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 2
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 3
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 4
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 5
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 6
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 7
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 8
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 9
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 10
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 11
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 12
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 13
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 14
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 15
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 16
+Date: 2018.04.12 13:30:40 067
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 18
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 19
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 20
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 21
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 22
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 23
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 24
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 25
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 26
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 27
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 28
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 29
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 30
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 31
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 32
+Date: 2018.04.12 13:30:40 213
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Error Num: 35
+Date: 2018.04.12 13:30:40 268
+Sender: void Virtual_Machine::Set_Icon_Path( const QString &file_name )
+Message: File name is empty!
+
+Type: Warning Num: 84
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/manufacturer"!
+
+Type: Warning Num: 85
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 86
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 87
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 88
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 89
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 90
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 91
+Date: 2018.04.12 13:30:50 795
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 92
+Date: 2018.04.12 13:30:50 796
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 93
+Date: 2018.04.12 13:30:50 796
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 94
+Date: 2018.04.12 13:30:50 796
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 95
+Date: 2018.04.12 13:30:50 796
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 96
+Date: 2018.04.12 13:30:50 796
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 97
+Date: 2018.04.12 13:30:50 796
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 2
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 3
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 4
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 5
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 6
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 7
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 8
+Date: 2018.04.12 14:32:57 337
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 9
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 10
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 11
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 12
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 13
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 14
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 15
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 16
+Date: 2018.04.12 14:32:57 338
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 18
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 19
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 20
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 21
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 22
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 23
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 24
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 25
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 26
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 27
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 28
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 29
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 30
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 31
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 32
+Date: 2018.04.12 14:32:57 494
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Error Num: 35
+Date: 2018.04.12 14:32:57 556
+Sender: void Virtual_Machine::Set_Icon_Path( const QString &file_name )
+Message: File name is empty!
+
+Type: Warning Num: 79
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/manufacturer"!
+
+Type: Warning Num: 80
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 81
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 82
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 83
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 84
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 85
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 86
+Date: 2018.04.12 14:33:04 600
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 87
+Date: 2018.04.12 14:33:04 601
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 88
+Date: 2018.04.12 14:33:04 601
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 89
+Date: 2018.04.12 14:33:04 601
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 90
+Date: 2018.04.12 14:33:04 601
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 91
+Date: 2018.04.12 14:33:04 601
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 92
+Date: 2018.04.12 14:33:04 601
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 110
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/manufacturer"!
+
+Type: Warning Num: 111
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 112
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-4/serial"!
+
+Type: Warning Num: 113
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 114
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 115
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 116
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 117
+Date: 2018.04.12 14:34:25 076
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 118
+Date: 2018.04.12 14:34:25 077
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 119
+Date: 2018.04.12 14:34:25 077
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 120
+Date: 2018.04.12 14:34:25 077
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 121
+Date: 2018.04.12 14:34:25 077
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 122
+Date: 2018.04.12 14:34:25 077
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 123
+Date: 2018.04.12 14:34:25 077
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 2
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 3
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 4
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 5
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 6
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 7
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 8
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 9
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 10
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 11
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 12
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 13
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 14
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 15
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 16
+Date: 2018.04.13 08:58:12 312
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 18
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 19
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 20
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 21
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 22
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 23
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 24
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 25
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 26
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 27
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 28
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 29
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 30
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 31
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 32
+Date: 2018.04.13 08:58:12 461
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Error Num: 35
+Date: 2018.04.13 08:58:12 516
+Sender: void Virtual_Machine::Set_Icon_Path( const QString &file_name )
+Message: File name is empty!
+
+Type: Warning Num: 86
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 87
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 88
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 89
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 90
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 91
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 92
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-1/manufacturer"!
+
+Type: Warning Num: 93
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 94
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-1/serial"!
+
+Type: Warning Num: 95
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 96
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 97
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 98
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 99
+Date: 2018.04.13 08:59:24 934
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 2
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 3
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 4
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 5
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 6
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 7
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 8
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 9
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 10
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 11
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 12
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 13
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 14
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 15
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 16
+Date: 2018.04.13 08:59:31 400
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Warning Num: 18
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-arm" element!
+
+Type: Warning Num: 19
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-cris" element!
+
+Type: Warning Num: 20
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-m68k" element!
+
+Type: Warning Num: 21
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-microblaze" element!
+
+Type: Warning Num: 22
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips" element!
+
+Type: Warning Num: 23
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64" element!
+
+Type: Warning Num: 24
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mips64el" element!
+
+Type: Warning Num: 25
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-mipsel" element!
+
+Type: Warning Num: 26
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc" element!
+
+Type: Warning Num: 27
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppc64" element!
+
+Type: Warning Num: 28
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-ppcemb" element!
+
+Type: Warning Num: 29
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4" element!
+
+Type: Warning Num: 30
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sh4eb" element!
+
+Type: Warning Num: 31
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc" element!
+
+Type: Warning Num: 32
+Date: 2018.04.13 08:59:31 542
+Sender: bool Emulator::Load( const QString &path )
+Message: No "qemu-system-sparc64" element!
+
+Type: Error Num: 35
+Date: 2018.04.13 08:59:31 601
+Sender: void Virtual_Machine::Set_Icon_Path( const QString &file_name )
+Message: File name is empty!
+
+Type: Warning Num: 96
+Date: 2018.04.13 08:59:56 818
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 97
+Date: 2018.04.13 08:59:56 818
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 98
+Date: 2018.04.13 08:59:56 819
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 99
+Date: 2018.04.13 08:59:56 819
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 100
+Date: 2018.04.13 08:59:56 819
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 101
+Date: 2018.04.13 08:59:56 819
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 102
+Date: 2018.04.13 08:59:56 819
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-1/manufacturer"!
+
+Type: Warning Num: 103
+Date: 2018.04.13 08:59:56 819
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 104
+Date: 2018.04.13 08:59:56 820
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-1/serial"!
+
+Type: Warning Num: 105
+Date: 2018.04.13 08:59:56 820
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 106
+Date: 2018.04.13 08:59:56 820
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 107
+Date: 2018.04.13 08:59:56 820
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 108
+Date: 2018.04.13 08:59:56 820
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 109
+Date: 2018.04.13 08:59:56 820
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 131
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/manufacturer"!
+
+Type: Warning Num: 132
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 133
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/product"!
+
+Type: Warning Num: 134
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read product from /sys/bus/usb/devices/
+
+Type: Warning Num: 135
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/1-9/serial"!
+
+Type: Warning Num: 136
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 137
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-1/manufacturer"!
+
+Type: Warning Num: 138
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read manufacturer from /sys/bus/usb/devices/
+
+Type: Warning Num: 139
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-1/serial"!
+
+Type: Warning Num: 140
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 141
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-3/serial"!
+
+Type: Warning Num: 142
+Date: 2018.04.13 09:00:37 344
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+
+Type: Warning Num: 143
+Date: 2018.04.13 09:00:37 345
+Sender: bool System_Info::Read_SysFS_File( const QString &path, QString &data )
+Message: Cannot Open File "/sys/bus/usb/devices/3-4/serial"!
+
+Type: Warning Num: 144
+Date: 2018.04.13 09:00:37 345
+Sender: bool System_Info::Scan_USB_Sys( QList<VM_USB> &list )
+Message: Cannot read serial from /sys/bus/usb/devices/
+

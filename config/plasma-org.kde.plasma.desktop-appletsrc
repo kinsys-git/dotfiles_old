@@ -85,4 +85,4 @@ PreloadWeight=42
 
 [ScreenMapping]
 itemsOnDisabledScreens=0,2,desktop:/Home.desktop,desktop:/trash.desktop
-screenMapping=desktop:/trash.desktop,0,desktop:/Home.desktop,0
+screenMapping=desktop:/Home.desktop,0,desktop:/trash.desktop,0

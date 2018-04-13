@@ -2,8 +2,10 @@ game:
   exe: /home/bradyn/Games/DDO/TurbineLauncher.exe
   prefix: ''
 system:
-  disable_runtime: true
+  disable_runtime: false
+  display: 'off'
 wine:
   Desktop: true
-  WineDesktop: 2160x1080
+  MouseWarpOverride: disable
+  WineDesktop: 2560x1080
   version: staging-3.5-x86_64

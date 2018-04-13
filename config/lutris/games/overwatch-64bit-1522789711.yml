@@ -14,7 +14,7 @@ system:
     mesa_glthread: 'true'
   exclude_processes: Agent.exe
   resolution: 'off'
-  sdl_video_fullscreen: '0'
+  sdl_video_fullscreen: 'off'
 wine:
   Desktop: true
   MouseWarpOverride: enable
