@@ -1,3 +1,7 @@
 # Dotfiles
 
-Needs to be cleaned up...
+Basic KDE setup.
+Requires:
+latte-dock
+Event Clock
+quarter-tiling

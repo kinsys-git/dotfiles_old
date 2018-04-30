@@ -2,17 +2,9 @@
 ShadowStrength=89
 
 [Windeco Exception 0]
-BorderSize=0
-Enabled=true
-ExceptionPattern=.*
-ExceptionType=0
-HideTitleBar=true
-Mask=16
-
-[Windeco Exception 1]
 BorderSize=1
 Enabled=true
-ExceptionPattern=Nightly
+ExceptionPattern=.*
 ExceptionType=0
 HideTitleBar=true
 Mask=16

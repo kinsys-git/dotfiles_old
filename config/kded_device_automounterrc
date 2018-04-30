@@ -1,55 +1,16 @@
-[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d0]
-EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=75.0 GiB Hard Drive
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d1]
-EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=903.0 GiB Hard Drive
-LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
-EverMounted=true
-Icon=model-x.stl-binary
-LastNameSeen=Win10_1709_English_x64.iso
-LastSeenMounted=false
-
-[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
-EverMounted=true
-Icon=drive-harddisk
-LastNameSeen=Media
-LastSeenMounted=true
-
 [Devices][/org/freedesktop/UDisks2/block_devices/sda2]
 EverMounted=true
 Icon=drive-harddisk
 LastNameSeen=Basic data partition
-LastSeenMounted=false
+LastSeenMounted=true
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sda3]
-Icon=drive-harddisk
-LastNameSeen=1.7 TiB Hard Drive
-LastSeenMounted=false
-
-[Devices][/org/freedesktop/UDisks2/block_devices/sdb1]
 EverMounted=true
 Icon=drive-harddisk
-LastNameSeen=100.0 MiB Hard Drive
+LastNameSeen=Data
 LastSeenMounted=true
-
-[Devices][/org/freedesktop/UDisks2/block_devices/sdc]
-Icon=drive-removable-media-usb
-LastNameSeen=CCCOMA_X64FRE_EN-US_DV9
-LastSeenMounted=false
 
 [Devices][/org/freedesktop/UDisks2/block_devices/sdc1]
-EverMounted=true
 Icon=drive-removable-media-usb
-LastNameSeen=15.1 GiB Removable Media
-LastSeenMounted=true
-
-[Devices][/org/kde/fstab///192.168.1.83/marie]
-EverMounted=true
-LastSeenMounted=true
+LastNameSeen=FEDORA-KDE-
+LastSeenMounted=false

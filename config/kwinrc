@@ -1,41 +1,9 @@
 [Compositing]
-AnimationSpeed=2
-Backend=OpenGL
-Enabled=true
-GLCore=true
-GLPreferBufferSwap=a
-GLTextureFilter=2
-HiddenPreviews=5
 OpenGLIsUnsafe=false
-WindowsBlockCompositing=true
-XRenderSmoothScale=false
 
 [Desktops]
 Number=4
 Rows=4
-
-[Effect-Cube]
-BorderActivate=9
-BorderActivateCylinder=9
-BorderActivateSphere=9
-
-[Effect-DesktopGrid]
-BorderActivate=9
-
-[Effect-PresentWindows]
-BorderActivate=9
-BorderActivateAll=1
-BorderActivateClass=9
-
-[ElectricBorders]
-Bottom=None
-BottomLeft=None
-BottomRight=None
-Left=None
-Right=None
-Top=None
-TopLeft=None
-TopRight=None
 
 [MouseBindings]
 CommandActiveTitlebar1=Raise
@@ -56,17 +24,14 @@ CommandWindow3=Activate and pass click
 CommandWindowWheel=Scroll
 
 [Plugins]
-activatelattelaunchermenuEnabled=false
 cubeslideEnabled=false
 desktopchangeosdEnabled=false
 enforcedecoEnabled=true
-kwin-script-tilingEnabled=false
-kwin4_effect_fadedesktopEnabled=true
+kwin4_effect_fadedesktopEnabled=false
 minimizeallEnabled=false
 quarter-tilingEnabled=true
 slideEnabled=false
 synchronizeskipswitcherEnabled=false
-tiling-gapsEnabled=false
 videowallEnabled=false
 windowgeometryEnabled=false
 
@@ -74,41 +39,14 @@ windowgeometryEnabled=false
 PopupHideDelay=1000
 TextOnly=false
 
-[Script-kwin-script-tiling]
-floaters=\\0
-fullscreenGaps=true
-noBorder=true
-screenGapSizeBottom=10
-screenGapSizeLeft=10
-screenGapSizeRight=10
-screenGapSizeTop=10
-userActive=false
-windowsGapSizeHeight=10
-windowsGapSizeWidth=10
-
 [Script-quarter-tiling]
-centerTo=0
-follow=false
-gap=10
-ignoredClients=wine, steam, kate, overwatch, sc2, battlenet, Vncviewer
+gap=15
 liveTiling=true
-mb=10
-ml=41
-mr=10
-mt=10
+mb=0
+ml=32
 numDesks=4
 
-[Script-tiling-gaps]
-bottomMargin=10
-halfClients=chromium, kate, spotify, nightly
-leftMargin=34
-noOpacity=true
-rightMargin=10
-topMargin=10
-
 [TabBox]
-BorderActivate=9
-BorderAlternativeActivate=9
 DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
 LayoutName=org.kde.breeze.desktop
@@ -120,17 +58,10 @@ AutoRaiseInterval=750
 AutogroupInForeground=true
 AutogroupSimilarWindows=false
 BorderSnapZone=10
-BorderlessMaximizedWindows=true
 CenterSnapZone=0
 ClickRaise=true
 DelayFocusInterval=300
-ElectricBorderCooldown=350
-ElectricBorderCornerRatio=0.25
-ElectricBorderDelay=150
-ElectricBorderMaximize=true
-ElectricBorderTiling=true
-ElectricBorders=0
-FocusPolicy=FocusFollowsMouse
+FocusPolicy=ClickToFocus
 FocusStealingPreventionLevel=1
 GeometryTip=false
 HideUtilityWindowsForInactive=true
@@ -138,9 +69,9 @@ InactiveTabsSkipTaskbar=false
 MaximizeButtonLeftClickCommand=Maximize
 MaximizeButtonMiddleClickCommand=Maximize (vertical only)
 MaximizeButtonRightClickCommand=Maximize (horizontal only)
-NextFocusPrefersMouse=true
+NextFocusPrefersMouse=false
 Placement=Smart
-RollOverDesktops=false
+RollOverDesktops=true
 SeparateScreenFocus=false
 ShadeHover=false
 ShadeHoverInterval=250
@@ -149,5 +80,9 @@ TitlebarDoubleClickCommand=Maximize
 WindowSnapZone=10
 
 [org.kde.kdecoration2]
+BorderSize=None
+ButtonsOnLeft=MS
+ButtonsOnRight=HIAX
+CloseOnDoubleClickOnMenu=false
 library=org.kde.breeze
 theme=

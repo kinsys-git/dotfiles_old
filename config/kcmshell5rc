@@ -1,13 +1,7 @@
 [DownloadDialog Settings]
-Height 1080=522
-Height 1600=522
-Width 2400=700
+Height 1080=505
 Width 2560=700
 
 [KFileDialog Settings]
-Recent Files[$e]=s9Sex1L.jpg,file:$HOME/dotfiles/scripts/plasma_restart.sh,file:$HOME/Wallpapers/s9Sex1L.jpg
-Recent URLs[$e]=file:$HOME/Wallpapers/,file:$HOME/dotfiles/scripts/
-
-[Open-with settings]
-CompletionMode=5
-History=konsole
+Recent Files[$e]=hi5jkHV.jpg,file:$HOME/dotfiles/wallpapers/Ultrawide/iKQY1u2.jpg,file:$HOME/Wallpapers/hi5jkHV.jpg
+Recent URLs[$e]=file:$HOME/Wallpapers/,file:$HOME/dotfiles/wallpapers/Ultrawide/

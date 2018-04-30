@@ -1,6 +1,0 @@
-game:
-  appid: '383980'
-  prefix: ~/Games/DXVK
-system:
-  disable_runtime: true
-winesteam: {}

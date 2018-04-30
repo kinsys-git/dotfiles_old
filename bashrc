@@ -7,7 +7,7 @@
 
 alias ls='exa'
 alias lsa='exa -lah'
-alias pacman='sudo pacman'
+alias dnf='sudo dnf'
 alias calc='bc'
 alias youtube='mpsyt'
 alias getclass='xprop | grep -i "class"'

@@ -1,159 +1,114 @@
 updateInfoAdded=true
 
-[akonadiconsole.upd]
-ctime=1518502461
-done=akonadiconsole-15.08-kickoff
-mtime=1516686271
-
 [akregator.upd]
-ctime=1518502461
+ctime=1525118548
 done=akregator-15.08-kickoff
-mtime=1517552136
+mtime=1519624027
 
 [disable_kmix.upd]
-ctime=1518581360
+ctime=1525118507
 done=PlasmaVolume_DisableKMixAutostart
-mtime=1518531865
+mtime=1522149845
 
 [fonts_akregator.upd]
-ctime=1522689414
+ctime=1525118603
 done=Plasma_Fonts_Akregator
 mtime=1522149761
 
 [fonts_global.upd]
-ctime=1522689414
+ctime=1525118603
 done=Fonts_Global
 mtime=1522149761
 
 [fonts_global_toolbar.upd]
-ctime=1522689414
+ctime=1525118603
 done=Fonts_Global_Toolbar
 mtime=1522149761
 
 [fonts_kate.upd]
-ctime=1522689414
+ctime=1525118603
 done=Plasma_Fonts_Kate
 mtime=1522149761
 
-[gtkbreeze5.5.upd]
-ctime=1522960985
-done=GTKBreeze5.5
-mtime=1522148627
-
 [importwizard.upd]
-ctime=1522684325
+ctime=1525118547
 done=importwizard-15.08-kickoff
 mtime=1519623729
 
 [kaddressbook.upd]
-ctime=1518502462
+ctime=1525118574
 done=kaddressbook-15.08-kickoff
-mtime=1517552143
-
-[kalarm.upd]
-ctime=1518502462
-done=1.9.5,1.9.9,1.9.12,2.0.0,2.0.2,2.1.5,2.3.2,kalarm-15.08-kickoff
-mtime=1517552144
-
-[katomic-levelset.upd]
-ctime=1518502431
-mtime=1508678949
+mtime=1519623733
 
 [kcalcrc.upd]
-ctime=1522687684
+ctime=1525118694
 mtime=1519944958
 
-[kde4breeze.upd]
-ctime=1522689412
-done=5.0KDE4Breeze_2
-mtime=1522148520
-
 [kget.upd]
-ctime=1518502451
-mtime=1517864127
+ctime=1525118504
+mtime=1520284609
 
 [kgthemeprovider-migration.upd]
-ctime=1518502428
+ctime=1525118478
 mtime=1502773831
 
-[kleopatra.upd]
-ctime=1518502463
-done=kleopatra-15.08-kickoff
-mtime=1517552158
-
-[klickety.upd]
-ctime=1518502434
-mtime=1515904117
-
 [kmail.upd]
-ctime=1522687684
+ctime=1525118575
 done=kmail-15.08-kickoff
 mtime=1519733969
 
 [kmail2.upd]
-ctime=1522687684
+ctime=1525118575
 done=kmail2
 mtime=1519733969
 
-[knavalbattle.upd]
-ctime=1518502435
-mtime=1511844291
-
-[knotes.upd]
-ctime=1518502464
-done=knotes-15.08-kickoff
-mtime=1517552170
-
 [kontact.upd]
-ctime=1518502464
+ctime=1525118576
 done=kontact-15.08-kickoff
-mtime=1517552173
+mtime=1519623740
+
+[konversation.upd]
+ctime=1525124138
+mtime=1510721340
 
 [korganizer.upd]
-ctime=1518502465
+ctime=1525118575
 done=korganizer-15.08-kickoff
-mtime=1517552177
+mtime=1519623741
 
 [krdb_libpathwipe.upd]
-ctime=1523383161
-done=LibraryPathWipeOut
+ctime=1525118601
 mtime=1522149666
 
 [krunnerplugins.upd]
-ctime=1523462724
-done=5.9KRunnerPlugins
+ctime=1525118604
 mtime=1522149999
 
 [kscreenlocker.upd]
-ctime=1522689412
+ctime=1525118503
 done=0.1-autolock
 mtime=1522149225
 
 [messageviewer.upd]
-ctime=1522684325
+ctime=1525118546
 done=messageviewer_move_gravatar
 mtime=1519623770
 
 [okular.upd]
-ctime=1518502444
-mtime=1517873535
+ctime=1525118613
+mtime=1519944944
 
 [pimsettingexporter.upd]
-ctime=1522684350
+ctime=1525118547
 done=pimsettingexporter-15.08-kickoff
 mtime=1519623744
 
-[powerdevil_move_shortcuts.upd]
-ctime=1518581375
-done=powerdevil_move_shortcuts
-mtime=1518532471
-
 [sieveeditor.upd]
-ctime=1522684350
+ctime=1525118508
 done=sieveeditor-15.08-kickoff
 mtime=1519623745
 
 [webengineurlinterceptoradblock.upd]
-ctime=1518502465
+ctime=1525118623
 done=webengineurlinterceptoradblock_move_settings
-mtime=1517205013
+mtime=1519623768

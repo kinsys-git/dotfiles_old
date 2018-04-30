@@ -1,0 +1,11 @@
+game:
+  arch: win64
+  exe: /home/bradyn/windowsgames/Overwatch/Overwatch Launcher.exe
+  prefix: /home/bradyn/windowsgames/wineprefix/overwatch
+system:
+  disable_runtime: true
+  env:
+    DXVK_HUD: '1'
+wine:
+  Desktop: true
+  WineDesktop: 1920x1080
