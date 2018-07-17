@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=audio-x-mpegurl
+Name=9 5.m3u
+Type=Link
+URL[$e]=file://$HOME/Music/playlists/MariePlaylists/9%205.m3u
+X-KDE-LastOpenedWith=amarok
