@@ -4,8 +4,8 @@
   <property name="Default" type="empty">
     <property name="HDMI-1" type="string" value="1. LG Electronics 29&quot;">
       <property name="Active" type="bool" value="true"/>
-      <property name="Resolution" type="string" value="2560x1080"/>
-      <property name="RefreshRate" type="double" value="59.999534"/>
+      <property name="Resolution" type="string" value="1920x1080"/>
+      <property name="RefreshRate" type="double" value="59.962844"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
