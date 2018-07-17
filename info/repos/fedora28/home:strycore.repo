@@ -1,0 +1,7 @@
+[home_strycore]
+name=Lutris (Fedora_28)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/strycore/Fedora_28/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/strycore/Fedora_28/repodata/repomd.xml.key
+enabled=1

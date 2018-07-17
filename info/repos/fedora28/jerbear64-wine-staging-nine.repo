@@ -1,0 +1,21 @@
+[jerbear64-wine-staging-nine-64]
+name=Copr repo for wine-staging-nine owned by jerbear64 x86_64
+baseurl=https://copr-be.cloud.fedoraproject.org/results/jerbear64/wine-staging-nine/fedora-$releasever-x86_64/
+type=rpm-md
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/jerbear64/wine-staging-nine/pubkey.gpg
+repo_gpgcheck=0
+enabled=1
+enabled_metadata=1
+
+[jerbear64-wine-staging-nine-32]
+name=Copr repo for wine-staging-nine owned by jerbear64 i686
+baseurl=https://copr-be.cloud.fedoraproject.org/results/jerbear64/wine-staging-nine/fedora-$releasever-i386/
+type=rpm-md
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/jerbear64/wine-staging-nine/pubkey.gpg
+repo_gpgcheck=0
+enabled=1
+enabled_metadata=1

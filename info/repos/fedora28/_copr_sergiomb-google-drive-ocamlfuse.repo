@@ -1,0 +1,10 @@
+[sergiomb-google-drive-ocamlfuse]
+name=Copr repo for google-drive-ocamlfuse owned by sergiomb
+baseurl=https://copr-be.cloud.fedoraproject.org/results/sergiomb/google-drive-ocamlfuse/fedora-$releasever-$basearch/
+type=rpm-md
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/sergiomb/google-drive-ocamlfuse/pubkey.gpg
+repo_gpgcheck=0
+enabled=1
+enabled_metadata=1

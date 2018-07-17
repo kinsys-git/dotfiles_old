@@ -1,0 +1,6 @@
+[rpm-sphere]
+name=RPM Sphere
+baseurl=http://ftp.gwdg.de/pub/opensuse/repositories/home:/zhonghuaren/Fedora_28/
+gpgkey=http://ftp.gwdg.de/pub/opensuse/repositories/home:/zhonghuaren/Fedora_28/repodata/repomd.xml.key
+enabled=1
+gpgcheck=1
