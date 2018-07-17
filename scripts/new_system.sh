@@ -1,4 +1,8 @@
 #!/bin/bash
+echo "Installing git..."
+echo "-----"
+sudo dnf install git -y
+echo ""
 echo "Downloading dotfiles..."
 echo "-----"
 cd ~

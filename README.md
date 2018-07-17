@@ -8,4 +8,4 @@ Full package list in info folder.
 
 Installing from scratch on Fedora 28 (But not expecting anyone but me to use this):
 
-wget -O - https://raw.githubusercontent.com/maelodic/dotfiles/scripts/new_system.sh | bash
+wget -O - https://raw.githubusercontent.com/maelodic/dotfiles/master/scripts/new_system.sh | bash
