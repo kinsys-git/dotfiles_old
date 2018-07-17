@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=inode-directory
-Name=Music
-Type=Link
-URL[$e]=file://$HOME/tmpmusic/Music
-X-KDE-LastOpenedWith=amarok

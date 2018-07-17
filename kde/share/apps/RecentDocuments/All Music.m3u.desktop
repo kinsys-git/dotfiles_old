@@ -1,6 +1,0 @@
-[Desktop Entry]
-Icon=application-vnd.apple.mpegurl
-Name=All Music.m3u
-Type=Link
-URL[$e]=file://$HOME/Music/playlists/MariePlaylists/All%20Music.m3u
-X-KDE-LastOpenedWith=amarok
