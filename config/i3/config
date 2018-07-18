@@ -33,7 +33,7 @@ for_window [class="Yad"] floating enable
 
 # Configure gaps
 gaps inner 15
-gaps outer 5
+gaps outer 0
 smart_borders on
 
 # Font for window titles. Will also be used by the bar unless a different font
