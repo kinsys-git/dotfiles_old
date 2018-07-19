@@ -55,7 +55,7 @@
   <property name="plugins" type="empty">
     <property name="plugin-13" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="amarok;cantata;clementine;mps-youtube.instance11677;mps-youtube.instance14268;mps-youtube.instance5560;mps-youtube.instance5768;mps-youtube.instance6150;mps-youtube.instance8752;mps-youtube.instance9835;pragha;rhythmbox;vlc"/>
+      <property name="mpris-players" type="string" value="amarok;cantata;clementine;mps-youtube.instance11677;mps-youtube.instance14268;mps-youtube.instance15143;mps-youtube.instance15150;mps-youtube.instance5560;mps-youtube.instance5768;mps-youtube.instance6150;mps-youtube.instance8752;mps-youtube.instance9835;pragha;rhythmbox;vlc"/>
     </property>
     <property name="plugin-14" type="string" value="screenshooter"/>
     <property name="plugin-2" type="string" value="actions">
